@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: fheroes2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-03 03:27+0000\n"
-"PO-Revision-Date: 2022-10-25 08:52+0200\n"
+"PO-Revision-Date: 2024-02-05 20:58+0100\n"
 "Last-Translator: fheroes2 team <fhomm2@gmail.com>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "Language: nl\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Launchpad-Export-Date: 2010-05-27 09:12+0000\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid ""
 "BATTLE\n"
@@ -29,72 +29,81 @@ msgid ""
 "NEW\n"
 "GAME"
 msgstr ""
+"NIEUW\n"
+"SPEL"
 
 msgid ""
 "SAVE\n"
 "GAME"
 msgstr ""
+"OP-\n"
+"SLAAN\n"
+"SPEL"
 
 msgid ""
 "LOAD\n"
 "GAME"
 msgstr ""
+"SPEL\n"
+"LADEN"
 
 msgid "INFO"
-msgstr ""
+msgstr "INFO"
 
 msgid "QUIT"
-msgstr ""
+msgstr "STOP"
 
 msgid "CANCEL"
-msgstr ""
+msgstr "TERUG"
 
 msgid "OKAY"
-msgstr ""
+msgstr "OKAY"
 
 msgid "smallerButton|OKAY"
-msgstr ""
+msgstr "OKAY"
 
 msgid "ACCEPT"
-msgstr ""
+msgstr "ACCEPTEER"
 
 msgid "DECLINE"
-msgstr ""
+msgstr "ONTSLAAN"
 
 msgid "LEARN"
-msgstr ""
+msgstr "LEER"
 
 msgid "TRADE"
-msgstr ""
+msgstr "RUIL"
 
 msgid "YES"
-msgstr ""
+msgstr "JA"
 
 msgid "NO"
-msgstr ""
+msgstr "NEE"
 
 msgid "EXIT"
-msgstr ""
+msgstr "STOP"
 
 msgid "smallerButton|EXIT"
-msgstr ""
+msgstr "STOP"
 
 msgid "DISMISS"
-msgstr ""
+msgstr "AFWIJZEN"
 
 msgid "UPGRADE"
-msgstr ""
+msgstr "VERBETEREN"
 
 msgid "RESTART"
-msgstr ""
+msgstr "HERSTART"
 
 msgid "HEROES"
-msgstr ""
+msgstr "HELDEN"
 
 msgid ""
 "TOWNS/\n"
 "CASTLES"
 msgstr ""
+"DORPEN/\n"
+"KASTELEN"
 
 msgid "S"
 msgstr ""
@@ -112,57 +121,68 @@ msgid "ALL"
 msgstr ""
 
 msgid "SELECT"
-msgstr ""
+msgstr "KIES"
 
 msgid ""
 "STANDARD\n"
 "GAME"
 msgstr ""
+"NORMAAL\n"
+"SPEL"
 
 msgid ""
 "CAMPAIGN\n"
 "GAME"
 msgstr ""
+"CAMPAGNE\n"
+"SPEL"
 
 msgid ""
 "MULTI-\n"
 "PLAYER\n"
 "GAME"
 msgstr ""
+"MULTI\n"
+"PLAYER\n"
+"SPEL"
 
 msgid "CONFIG"
-msgstr ""
+msgstr "INSTELLEN"
 
 msgid ""
 "ORIGINAL\n"
 "CAMPAIGN"
 msgstr ""
+"ORIGINELE\n"
+"CAMPAGNE"
 
 msgid ""
 "EXPANSION\n"
 "CAMPAIGN"
 msgstr ""
+"UITBREIDING\n"
+"CAMPAGNE"
 
 msgid "HOT SEAT"
-msgstr ""
+msgstr "SAMEN"
 
 msgid "2 PLAYERS"
-msgstr ""
+msgstr "2 SPELERS"
 
 msgid "3 PLAYERS"
-msgstr ""
+msgstr "3 SPELERS"
 
 msgid "4 PLAYERS"
-msgstr ""
+msgstr "4 SPELERS"
 
 msgid "5 PLAYERS"
-msgstr ""
+msgstr "5 SPELERS"
 
 msgid "6 PLAYERS"
-msgstr ""
+msgstr "6  SPELERS"
 
 msgid "GIFT"
-msgstr "DONEREN"
+msgstr "GEEF"
 
 msgid "MAX"
 msgstr ""
@@ -171,22 +191,22 @@ msgid "DIFFICULTY"
 msgstr "NIVEAU"
 
 msgid "VIEW INTRO"
-msgstr ""
+msgstr "KIJK INTRO"
 
 msgid "MIN"
 msgstr "MIN"
 
 msgid "RESET"
-msgstr ""
+msgstr "OPNIEUW"
 
 msgid "START"
-msgstr ""
+msgstr "START"
 
 msgid "CASTLE"
-msgstr ""
+msgstr "KASTEEL"
 
 msgid "TOWN"
-msgstr ""
+msgstr "DORP"
 
 msgid ""
 "D\n"
@@ -197,6 +217,14 @@ msgid ""
 "S\n"
 "S"
 msgstr ""
+"O\n"
+"N\n"
+"T\n"
+"S\n"
+"L\n"
+"A\n"
+"A\n"
+"N"
 
 msgid ""
 "E\n"
@@ -204,6 +232,10 @@ msgid ""
 "I\n"
 "T"
 msgstr ""
+"S\n"
+"T\n"
+"O\n"
+"P"
 
 msgid ""
 "C\n"
@@ -215,6 +247,14 @@ msgid ""
 "G\n"
 "N"
 msgstr ""
+"C\n"
+"A\n"
+"M\n"
+"P\n"
+"A\n"
+"G\n"
+"N\n"
+"E"
 
 msgid ""
 "S\n"
@@ -226,6 +266,15 @@ msgid ""
 "R\n"
 "D"
 msgstr ""
+"S\n"
+"T\n"
+"A\n"
+"N\n"
+"D\n"
+"A\n"
+"A\n"
+"R\n"
+"D"
 
 msgid "Warrior"
 msgstr "Strijder"
@@ -243,21 +292,21 @@ msgid ""
 "A few\n"
 "%{monster}"
 msgstr ""
-"Een paar\n"
+"Enkele\n"
 "%{monster}"
 
 msgid ""
 "Several\n"
 "%{monster}"
 msgstr ""
-"Meerdere\n"
+"Enkele\n"
 "%{monster}"
 
 msgid ""
 "A pack of\n"
 "%{monster}"
 msgstr ""
-"Een groep van\n"
+"Een groep \n"
 "%{monster}"
 
 msgid ""
@@ -292,7 +341,7 @@ msgid ""
 "Zounds...\n"
 "%{monster}"
 msgstr ""
-"Honderden\n"
+"Gotsatte\n"
 "%{monster}"
 
 msgid ""
@@ -303,10 +352,10 @@ msgstr ""
 "%{monster}"
 
 msgid "army|Few"
-msgstr "Een paar"
+msgstr "Weinig"
 
 msgid "army|Several"
-msgstr "Meerdere"
+msgstr "Enkele"
 
 msgid "army|Pack"
 msgstr "Groep"
@@ -324,7 +373,7 @@ msgid "army|Swarm"
 msgstr "Zwerm"
 
 msgid "army|Zounds"
-msgstr "Honderden"
+msgstr "Gotsatte"
 
 msgid "army|Legion"
 msgstr "Legioen"
@@ -338,9 +387,8 @@ msgstr "Meerdere"
 msgid "Troops of %{count} alignments -%{penalty}"
 msgstr "Troepen van %{count} uitlijningen -%{penalty}"
 
-#, fuzzy
 msgid "Some undead in army -1"
-msgstr "Enkele ondoden in groepen -1"
+msgstr "Enkele ondoden in rangen -1"
 
 msgid "View %{name}"
 msgstr "Zie %{name}"
@@ -349,7 +397,7 @@ msgid "Move the %{name} "
 msgstr "Beweeg de %{name} "
 
 msgid "Move or right click to redistribute %{name}"
-msgstr "Beweeg of rechter click om %{name} te herverdelen"
+msgstr "Beweeg of klik rechts om %{name} te herverdelen"
 
 msgid "Combine %{name} armies"
 msgstr "Combineer %{name} legers"
@@ -367,18 +415,18 @@ msgid "Move the %{name}"
 msgstr "Verplaats de %{name}"
 
 msgid "Set Count"
-msgstr "Zet Tel"
+msgstr "Aantal"
 
 msgid "%{name} destroys half the enemy troops!"
 msgid_plural "%{name} destroy half the enemy troops!"
-msgstr[0] "%{name} vernietigd helft van de veihandelijke troepen!"
-msgstr[1] "%{name} vernietigd helft van de veihandelijke troepen!"
+msgstr[0] "%{name} vernietigt helft van de vijandelijke troepen!"
+msgstr[1] "%{name} vernietigen helft van de vijandelijke troepen!"
 
 msgid "%{name} has turned off the auto battle"
-msgstr "%{name} heeft de automatische wedstrijd uitgezet"
+msgstr "%{name} heeft automatisch vechten uitgezet"
 
 msgid "%{name} has turned on the auto battle"
-msgstr "%{name} heeft de automatische wedstrijd aangezet!"
+msgstr "%{name} heeft automatisch vechten aangezet!"
 
 msgid "Spell failed!"
 msgstr "Spreuk gefaald!"
@@ -387,15 +435,14 @@ msgid ""
 "The Sphere of Negation artifact is in effect for this battle, disabling all "
 "combat spells."
 msgstr ""
-"Het Sphere of Negation artefact is in effect voor deze wedstrijd, alle "
-"strijd spreuken zijn uitgeschakeld."
+"Het Bal der Onderhandeling artefact is actief voor dit gevecht, alle "
+"spreuken zijn uitgeschakeld."
 
 msgid "You have already cast a spell this round."
-msgstr "Je hebt all een spreuk uitgesproken deze ronde."
+msgstr "Je hebt al een spreuk uitgesproken deze ronde."
 
-#, fuzzy
 msgid "That spell will have no effect!"
-msgstr "Die spreuk zal niemand beïnvloeden!"
+msgstr "Die spreuk heeft geen effect!"
 
 msgid "You may only summon one type of elemental per combat."
 msgstr "Je kan maar 1 type van elemental oproepen per strijd."
@@ -412,8 +459,8 @@ msgid ""
 "The Moat reduces by -%{count} the defense skill of any unit and slows to "
 "half movement rate."
 msgstr ""
-"De Moat verminderd by -%{count} de verdedgings vaardigheid van een eenheid "
-"en versloomt naar de helft van de bewegings snelheid"
+"De gracht vermindert de verdedigingsvaardigheid van een eenheid met -"
+"%{count} en vertraagt de snelheid tot de helft."
 
 msgid "Speed: %{speed}"
 msgstr "Snelheid: %{speed}"
@@ -427,12 +474,11 @@ msgstr "Uit"
 msgid "On"
 msgstr "Aan"
 
-#, fuzzy
 msgid "Turn Order"
-msgstr "Legerorde"
+msgstr "Beurtvolgorde"
 
 msgid "Auto Spell Casting"
-msgstr "Automatisch spreuk uitroepen"
+msgstr "Automatisch spreuken"
 
 msgid "Grid"
 msgstr "Rooster"
@@ -444,134 +490,134 @@ msgid "Shadow Cursor"
 msgstr "Schaduw Cursor"
 
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Settings"
-msgstr ""
+msgstr "Instellingen"
 
 msgid "Configure"
-msgstr ""
+msgstr "Aanpassen"
 
 msgid "Hot Keys"
-msgstr ""
+msgstr "Sneltoetsen"
 
 msgid "Damage Info"
-msgstr ""
+msgstr "Schade info"
 
 msgid "Set the speed of combat actions and animations."
-msgstr "Zet de snelheid van gevechts acties en animaties."
+msgstr "Zet de snelheid van gevechtacties en animaties."
 
-#, fuzzy
 msgid "Toggle to display the turn order during the battle."
-msgstr "Schakel om het legerorde weer te geven tijdens het gevecht."
+msgstr "Schakel de beurtvolgorde tijdens het gevecht."
 
 msgid ""
 "Toggle whether or not the computer will cast spells for you when auto combat "
 "is on. (Note: This does not affect spell casting for computer players in any "
 "way, nor does it affect quick combat.)"
 msgstr ""
-"Schakel wel of niet de computer spreuken voor je zal uitspreken waneer "
-"automatisch vechten aan staat. (Opmerking: Dit heeft geen invloed op "
-"spreuken uitspreken voor computer spelers hoe dan ook, het heeft ook geen "
-"invloed op snel vechten.)"
+"Schakel of de computer spreuken voor je uitspreekt wanneer automatisch "
+"vechten aan staat. (Opmerking: Dit heeft geen invloed op spreuken gebruiken "
+"voor computerspelers hoe dan ook, het heeft ook geen invloed op snel "
+"vechten.)"
 
 msgid ""
 "Toggle the hex grid on or off. The hex grid always underlies movement, even "
 "if turned off. This switch only determines if the grid is visible."
 msgstr ""
-"Schakel het hex raster aan of uit. Het hex raster onderlijnt altijd "
-"beweeging, even als uitgeschakeld. Deze schakel bepaalt alleen of het raster "
-"zichtbaar is."
+"Maak het hex raster zichtbaar of niet. Beweging is altijd op dit zeskandig "
+"raster gebaseerd, ook als het niet zichtbaar is. Deze schakel bepaalt alleen "
+"of het  zichtbaar is."
 
 msgid ""
 "Toggle on or off shadows showing where your creatures can move and attack."
 msgstr ""
-"Schakel aan of uit of schaduwen worden weergegeven waar je schepsels kunnen "
-"bewegen en aanvallen."
+"Schakel schaduwen in of uit waar je schepsels kunnen bewegen en aanvallen."
 
 msgid ""
 "Toggle on or off a shadow showing the current hex location of the mouse "
 "cursor."
 msgstr ""
-"Schakel aan of uit een schaduw die de huidige hex-locatie van de muiscursor "
+"Schakel een schaduw in of uit die de huidige hex-locatie van de muiscursor "
 "toont."
 
 msgid "Change the audio settings of the game."
-msgstr ""
+msgstr "Verander de audioinstellingen."
 
 msgid "Check and configure all the hot keys present in the game."
-msgstr ""
+msgstr "Check en verander de sneltoetsen in het spel."
 
-#, fuzzy
 msgid "Toggle to display damage information during the battle."
-msgstr "Schakel om het legerorde weer te geven tijdens het gevecht."
+msgstr "Schakel informatie over schade tijdens gevechten in of uit."
 
 msgid "Exit this menu."
-msgstr ""
+msgstr "Verlaat dit menu."
 
 msgid "Okay"
-msgstr ""
+msgstr "Okay"
 
+#, fuzzy
 msgid "The enemy has surrendered!"
 msgstr "De vijand heeft zich overgegeven!"
 
 msgid "Their cowardice costs them %{gold} gold."
-msgstr ""
+msgstr "Deze lafheid kostte hen %{gold} goud."
 
+#, fuzzy
 msgid "The enemy has fled!"
 msgstr "De vijand is gevlucht!"
 
+#, fuzzy
 msgid "A glorious victory!"
 msgstr "Een glorieuze overwinning!"
 
 msgid "For valor in combat, %{name} receives %{exp} experience."
-msgstr "Voor moed in de strijd, %{name} ontvangt %{exp} ervaring."
+msgstr "Voor moed in de strijd, ontvangt %{name} %{exp} ervaring."
 
 msgid "The cowardly %{name} flees from battle."
-msgstr "De laffe %{name} vlucht voor de strijd."
+msgstr "De laffe %{name} vlucht van de strijd."
 
+#, fuzzy
 msgid "%{name} surrenders to the enemy, and departs in shame."
 msgstr "%{name} geeft zich over aan de vijand en vertrekt in schaamte."
 
-#, fuzzy
 msgid "Your forces suffer a bitter defeat, and %{name} abandons your cause."
-msgstr ""
-"Je strijdmacht lijdt een bittere nederlaag en %{name} geeft je zaak op."
+msgstr "Je troepen lijden een bittere nederlaag en %{name} geeft je zaak op."
+
+msgid "Your forces suffer a bitter defeat."
+msgstr "Je troepen lijden een bittere nederlaag."
 
 #, fuzzy
-msgid "Your forces suffer a bitter defeat."
-msgstr "Je strijdmacht lijdt een bittere nederlaag."
-
 msgid "Battlefield Casualties"
 msgstr "Slachtoffers op het slagveld"
 
+#, fuzzy
 msgid "Attacker"
 msgstr "Aanvaller"
 
+#, fuzzy
 msgid "Defender"
 msgstr "Verdediger"
 
 msgid "Click to leave the battle results."
-msgstr ""
+msgstr "Klik om de resultaten te verlaten."
 
-#, fuzzy
 msgid "Click to restart the battle in manual mode."
-msgstr ""
-"Weet je zeker dat je het gevecht in de automatische modus wilt beëindigen?"
+msgstr "Klik om te herstarten in manuele modus."
 
 msgid "Restart"
-msgstr ""
+msgstr "Herstart"
 
 msgid "You have captured an enemy artifact!"
-msgstr "Je hebt een vijandelijk artefact gevangen!"
+msgstr "Je hebt een artefact veroverd van de vijand!"
 
 msgid "As you reach for the %{name}, it mysteriously disappears."
-msgstr "Als je naar de %{name} reikt, verdwijnt deze op mysterieuze wijze."
+msgstr "Terwijl je naar de %{name} reikt, verdwijnt deze op mysterieuze wijze."
 
 msgid "As your enemy reaches for the %{name}, it mysteriously disappears."
 msgstr ""
-"Als je vijand naar de %{name} reikt, verdwijnt deze op mysterieuze wijze."
+"Terwijl je vijand naar de %{name} reikt, verdwijnt deze op mysterieuze wijze."
 
+#, fuzzy
 msgid "Necromancy!"
 msgstr "Necromantie!"
 
@@ -580,63 +626,74 @@ msgid ""
 "the enemy's dead to return under your service as %{monster}."
 msgstr ""
 "Door de duistere kunst van necromantie te beoefenen, ben je in staat om "
-"%{count} van de vijandelijke doden te verhogen om terug te keren onder jouw "
-"dienst als %{monster}."
+"%{count} van de vijandelijke doden uit de dood te laten ontwaken als "
+"%{monster}."
 
+#, fuzzy
 msgid "%{name} the %{race}"
 msgstr "%{name} de %{race}"
 
+#, fuzzy
 msgid "Captain of %{name}"
 msgstr "Kapitein van %{name}"
 
+#, fuzzy
 msgid "Attack"
 msgstr "Aanval"
 
+#, fuzzy
 msgid "Defense"
 msgstr "Verdedig"
 
 msgid "Spell Power"
-msgstr "Spreuk Kracht"
+msgstr "Spreukkracht"
 
+#, fuzzy
 msgid "Knowledge"
 msgstr "Kennis"
 
+#, fuzzy
 msgid "Morale"
 msgstr "Moreel"
 
+#, fuzzy
 msgid "Luck"
 msgstr "Geluk"
 
+#, fuzzy
 msgid "Spell Points"
 msgstr "Spreuk Punten"
 
 msgid "Hero's Options"
-msgstr "Held's Opties"
+msgstr "Heldopties"
 
 msgid "Cast Spell"
-msgstr "Spreuk uitspreken"
+msgstr "Spreuk gebruiken"
 
+#, fuzzy
 msgid "Retreat"
 msgstr "Terugtrekken"
 
+#, fuzzy
 msgid "Surrender"
 msgstr "Overgave"
 
+#, fuzzy
 msgid "Cancel"
 msgstr "Annuleren"
 
 msgid "Hero Screen"
-msgstr "Held Scherm"
+msgstr "Heldenscherm"
 
 msgid "Captain's Options"
-msgstr "Kapitein's Opties"
+msgstr "Kapiteinopties"
 
 msgid ""
 "Cast a magical spell. You may only cast one spell per combat round. The "
 "round is reset when every creature has had a turn."
 msgstr ""
-"Spreek een magische spruik uit. Je kan maar 1 spreuk uitspreken per gevechts "
-"ronde. De ronde resets waneer elk schepsel een beurt heeft gehad."
+"Spreek een magische spreuk uit. Je kan één spreuk gebruiken per "
+"gevechtsronde. De ronde herstart wanneer elk schepsel aan de heeft kwam."
 
 msgid ""
 "Retreat your hero, abandoning your creatures. Your hero will be available "
@@ -644,110 +701,122 @@ msgid ""
 "forces."
 msgstr ""
 "Trek je held terug en laat je schepsels in de steek. Je held zal beschikbaar "
-"zijn om opnieuw te rekruteren, maar de held zal alleen de troepen van een "
-"beginnende held hebben."
+"zijn om opnieuw te rekruteren, maar zal alleen de troepen van een beginnende "
+"held hebben."
 
-#, fuzzy
 msgid ""
 "Surrendering costs gold. However if you pay the ransom, the hero and all of "
 "his or her surviving creatures will be available to recruit again. The cost "
 "of surrender is half of the total cost of the non-temporary troops remaining "
 "in the army."
 msgstr ""
-"Overgave kost geld. Echter als je het losgeld betaalt zal de held en al van "
-"de overlevende schepsels beschikbaar zijn om opnieuw te rekruteren."
+"Overgave kost goud. Echter als je het losgeld betaalt zal de held en alle "
+"overlevende schepsels beschikbaar zijn om opnieuw te rekruteren."
 
 msgid "Open Hero Screen to view full information about the hero."
-msgstr ""
-"Open het heldenscherm om volledige informatie over de held te bekijken."
+msgstr "Open het heldenscherm om alle informatie over de held te bekijken."
 
+#, fuzzy
 msgid "Return to the battle."
 msgstr "Keer terug naar de strijd."
 
+#, fuzzy
 msgid "Not enough gold (%{gold})"
 msgstr "Niet genoeg goud (%{gold})"
 
 msgid "%{name} states:"
-msgstr "%{name} staat:"
+msgstr "%{name} zegt:"
 
 msgid "Captain of %{name} states:"
-msgstr "De Kapitein van %{name} staat:"
+msgstr "Kapitein van %{name} zegt:"
 
 msgid ""
 "\"I will accept your surrender and grant you and your troops safe passage "
 "for the price of %{price} gold.\""
 msgstr ""
-"\"Ik zal je overgave accepteren en jou en je troepen een veilige doorgang "
-"geven voor de prijs van %{price} goud.\""
+"\"Ik accepteer je overgave en verschaf jou en je troepen veilige doorgang "
+"voor de prijs van %{price} goud.\""
 
 msgid "View %{monster} info"
-msgstr "Bekijk de info van %{monster}"
+msgstr "Bekijk %{monster} info"
 
+#, fuzzy
 msgid "Fly %{monster} here"
 msgstr "Vlieg %{monster} hier"
 
+#, fuzzy
 msgid "Move %{monster} here"
 msgstr "Beweeg %{monster} hier"
 
+#, fuzzy
 msgid "Shoot %{monster}"
 msgstr "Schiet %{monster}"
 
+#, fuzzy
 msgid "(1 shot left)"
 msgid_plural "(%{count} shots left)"
 msgstr[0] "(1 schot over)"
 msgstr[1] "(%{count} schoten over)"
 
+#, fuzzy
 msgid "Attack %{monster}"
 msgstr "Val %{monster} aan"
 
 msgid "Turn %{turn}"
-msgstr "Draai %{turn}"
+msgstr "Beurt %{turn}"
 
+#, fuzzy
 msgid "Teleport here"
 msgstr "Teleporteer hier"
 
 msgid "Invalid teleport destination"
-msgstr "Ongeldige teleporteers bestemming"
+msgstr "Ongeldig teleporteerdoel"
 
 msgid "Cast %{spell} on %{monster}"
-msgstr "%{spell} uitgesproken op %{monster}"
+msgstr "%{spell} gebruiken op %{monster}"
 
 msgid "Cast %{spell}"
-msgstr "%{spell} uitspreken"
+msgstr "%{spell} gebruiken"
 
 msgid "Select spell target"
-msgstr "Selecteer spreuk doelwit"
+msgstr "Selecteer spreukdoelwit"
 
+#, fuzzy
 msgid "View Ballista info"
 msgstr "Ballista-info bekijken"
 
+#, fuzzy
 msgid "Ballista"
 msgstr "Ballista"
 
 msgid "Enable auto combat"
-msgstr "Automatische gevechten inschakelen"
+msgstr "Automatisch vechten inschakelen"
 
+#, fuzzy
 msgid "Allows the computer to fight out the battle for you."
 msgstr "Hiermee kan de computer de strijd voor je uitvechten."
 
+#, fuzzy
 msgid "Auto Combat"
 msgstr "Automatisch Vechten"
 
 msgid "Customize system options"
-msgstr "Systeem instellingen aanpassen"
+msgstr "Systeeminstellingen aanpassen"
 
 msgid "Allows you to customize the combat screen."
-msgstr "Hiermee kan je het gevechts scherm aanpassen"
+msgstr "Hiermee kan je het gevechtscherm aanpassen"
 
 msgid "System Options"
-msgstr "Systeem Instellingen"
+msgstr "Systeeminstellingen"
 
 msgid "Skip this unit"
-msgstr "Deze eenheid overslaan"
+msgstr "Deze troepen overslaan"
 
+#, fuzzy
 msgid "Skip"
 msgstr "Overslaan"
 
+#, fuzzy
 msgid ""
 "Skips the current creature. The current creature ends its turn and does not "
 "get to go again until the next round."
@@ -756,29 +825,31 @@ msgstr ""
 "mag pas de volgende ronde weer gaan."
 
 msgid "View Captain's options"
-msgstr "Bekijk Kapitein's opties"
+msgstr "Bekijk Kapiteinopties"
 
 msgid "View Hero's options"
-msgstr "Bekijk Held's opties"
+msgstr "Bekijk Heldopties"
 
 msgid "View opposing Captain"
 msgstr "Bekijk tegenstander Kapitein"
 
+#, fuzzy
 msgid "View opposing Hero"
 msgstr "Bekijk tegenstander Held"
 
 msgid "Hide logs"
-msgstr "Logboeken verbergen"
+msgstr "Logs verbergen"
 
 msgid "Show logs"
-msgstr "Logboeken weergeven"
+msgstr "Logs weergeven"
 
 msgid "Message Bar"
-msgstr "Brichtenbalk"
+msgstr "Berichtenbalk"
 
 msgid "Shows the results of individual monster's actions."
-msgstr "Toont de resultaten van de acties van individuele monsters."
+msgstr "Toont het resultaat van de acties van individuele monsters."
 
+#, fuzzy
 msgid "Are you sure you want to finish the battle in auto mode?"
 msgstr ""
 "Weet je zeker dat je het gevecht in de automatische modus wilt beëindigen?"
@@ -787,273 +858,303 @@ msgstr ""
 msgid "Are you sure you want to enable auto combat?"
 msgstr "Weet je zeker dat je je wilt terugtrekken?"
 
+#, fuzzy
 msgid "%{name} skip their turn."
 msgstr "%{name} slaat zijn beurt over."
 
 msgid "%{attacker} does %{damage} damage."
 msgid_plural "%{attacker} do %{damage} damage."
 msgstr[0] "%{attacker} doet %{damage} schade."
-msgstr[1] "%{attacker} doet %{damage} schade."
+msgstr[1] "%{attacker} doen%{damage} schade."
 
 msgid "1 creature perishes."
 msgid_plural "%{count} creatures perish."
-msgstr[0] "1 schepsel vergaat."
-msgstr[1] "%{count} schepsels vergaan."
+msgstr[0] "1 schepsel sterft."
+msgstr[1] "%{count} schepsels sterven."
 
 msgid "1 %{defender} perishes."
 msgid_plural "%{count} %{defender} perish."
-msgstr[0] "1 %{defender} vergaat."
-msgstr[1] "%{count} %{defender} vergaan."
+msgstr[0] "1 %{defender} sterft."
+msgstr[1] "%{count} %{defender} sterven"
 
-#, fuzzy
 msgid "1 soul is incorporated."
 msgid_plural "%{count} souls are incorporated."
-msgstr[0] "Het spiegelbeeld wordt gecreëerd."
-msgstr[1] "Het spiegelbeeld wordt gecreëerd."
+msgstr[0] "1 ziel wordt opgenomen."
+msgstr[1] "%{count} zielen worden opgenomen."
 
 msgid "1 %{unit} is revived."
 msgid_plural "%{count} %{unit} are revived."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1  %{unit} wordt teruggebracht."
+msgstr[1] "%{count} %{unit} wordt teruggebracht."
 
 msgid "Moved %{monster}: from [%{src}] to [%{dst}]."
-msgstr "Bewoog %{monster}: van [%{src}] naar [%{dst}]"
+msgstr "Bewoog %{monster}: van [%{src}] naar [%{dst}]."
 
+#, fuzzy
 msgid "The %{name} resist the spell!"
 msgstr "De %{name} weerstaat de spreuk!"
 
 msgid "%{name} casts %{spell} on the %{troop}."
-msgstr "%{name} spreekt %{spell} uit op %{troop}."
+msgstr "%{name} gebruikt %{spell} uit op %{troop}."
 
 msgid "%{name} casts %{spell}."
-msgstr "%{name} spreekt %{spell}."
+msgstr "%{name} gebruikt %{spell}."
 
 msgid "The %{spell} does %{damage} damage to one undead creature."
-msgstr "De %{spell} richt %{damage} schade aan een ondode schepsel."
+msgstr "De %{spell} richt %{damage} schade aan een ondode."
 
 msgid "The %{spell} does %{damage} damage to all undead creatures."
-msgstr "De %{spell} richt %{damage} schade aan aan alle ondode schepsels."
+msgstr "De %{spell} richt %{damage} schade aan aan alle ondoden."
 
 msgid "The %{spell} does %{damage} damage, %{count} creatures perish."
-msgstr "De %{spell} richt %{damage} schade aan, %{count} schepsels komen om."
+msgstr "De %{spell} richt %{damage} schade aan, %{count} schepsels sterven."
 
+#, fuzzy
 msgid "The %{spell} does %{damage} damage."
 msgstr "De %{spell} richt %{damage} schade aan."
 
+#, fuzzy
 msgid "The %{spell} does %{damage} damage to one living creature."
 msgstr "De %{spell} richt %{damage} schade aan aan 1 levend schepsel."
 
 msgid "The %{spell} does %{damage} damage to all living creatures."
-msgstr "De %{spell} richt %{damage} schade aan aan alle levende schepsels."
+msgstr "De %{spell} richt %{damage} schade aan aan alle levenden."
 
+#, fuzzy
 msgid "The %{attacker}' attack blinds the %{target}!"
 msgstr "De aanval van %{attacker} verblindt de %{target}!"
 
 msgid "The %{attacker}' gaze turns the %{target} to stone!"
-msgstr "De blik van de %{attacker} verandert het %{target} in steen!"
+msgstr "De blik van de %{attacker} verandert de %{target} in steen!"
 
+#, fuzzy
 msgid "The %{attacker}' curse falls upon the %{target}!"
 msgstr "De vloek van de %{attacker} valt op de %{target}!"
 
+#, fuzzy
 msgid "The %{target} are paralyzed by the %{attacker}!"
 msgstr "De %{target} zijn verlamd door de %{attacker}!"
 
+#, fuzzy
 msgid "The %{attacker} dispel all good spells on your %{target}!"
 msgstr "De %{attacker} verdrijft alle goede spreuken op je %{target}!"
 
 msgid "The %{attacker} cast %{spell} on %{target}!"
-msgstr "De %{attacker} spreekt %{spell} uit op %{target}!"
+msgstr "De %{attacker} gebruikt %{spell} op %{target}!"
 
 msgid "Bad luck descends on the %{attacker}."
-msgstr "Pech komt neer op de %{attacker}."
+msgstr "Ongeluk slaat toe op de %{attacker}."
 
 msgid "Good luck shines on the %{attacker}."
-msgstr "Geluk komt neer op de %{attacker}"
+msgstr "Geluk schijnt op de %{attacker}."
 
 msgid "High morale enables the %{monster} to attack again."
-msgstr "Een hoog moreel stelt het %{monster} in staat opnieuw aan te vallen."
+msgstr "Hoog moreel laat de %{monster} opnieuw aanvallen."
 
 msgid "Low morale causes the %{monster} to freeze in panic."
-msgstr "Een laag moreel zorgt ervoor dat het %{monster} in paniek bevriest."
+msgstr "Laag moreel zorgt ervoor dat de %{monster} in paniek bevriest."
 
+#, fuzzy
 msgid "%{tower} does %{damage} damage."
 msgstr "%{tower} doet %{damage} schade."
 
+#, fuzzy
 msgid "The mirror image is created."
 msgstr "Het spiegelbeeld wordt gecreëerd."
 
+#, fuzzy
 msgid "The mirror image is destroyed!"
 msgstr "Het spiegelbeeld is vernietigd!"
 
+#, fuzzy
 msgid "Are you sure you want to interrupt the auto battle?"
 msgstr "Weet je zeker dat je het automatisch vechten wilt onderbreken?"
 
+#, fuzzy
 msgid "Error"
 msgstr "Fout"
 
 msgid "No spells to cast."
-msgstr "Geen spreuken om uit te spreken."
+msgstr "Geen spreuken om te gebruiken."
 
+#, fuzzy
 msgid "Are you sure you want to retreat?"
 msgstr "Weet je zeker dat je je wilt terugtrekken?"
 
+#, fuzzy
 msgid "Retreat disabled"
 msgstr "Terugtrekken uitgeschakeld"
 
+#, fuzzy
 msgid "Surrender disabled"
 msgstr "Overgave uitgeschakeld"
 
+#, fuzzy
 msgid "Damage: %{max}"
 msgstr "Schade: %{max}"
 
+#, fuzzy
 msgid "Damage: %{min} - %{max}"
 msgstr "Schade: %{min} - %{max}"
 
 msgid "Perish: %{max}"
-msgstr "Vergaan: %{max}"
+msgstr "Sterven: %{max}"
 
 msgid "Perish: %{min} - %{max}"
-msgstr "Vergaan: %{min} - %{max}"
+msgstr "Sterven: %{min} - %{max}"
 
+#, fuzzy
 msgid ""
 "Through eagle-eyed observation, %{name} is able to learn the magic spell "
 "%{spell}."
 msgstr ""
 "Door observatie met arendsogen kan %{name} de magische spreuk %{spell} leren."
 
+#, fuzzy
 msgid "Human"
 msgstr "Mens"
 
+#, fuzzy
 msgid "AI"
 msgstr "Computer"
 
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
-#, fuzzy
 msgid "Start the battle."
-msgstr "Keer terug naar de strijd."
+msgstr "Start het gevecht."
 
 msgid "Exit"
-msgstr ""
+msgstr "Verlaat"
 
 msgid "Reset"
-msgstr ""
+msgstr "Herstel"
 
 msgid "Reset to default settings."
-msgstr ""
+msgstr "Herstel de standaard instellingen."
 
+#, fuzzy
 msgid "Please select another hero."
 msgstr "Selecteer een andere held."
 
+#, fuzzy
 msgid "Set Attack Skill"
 msgstr "Aanvalsvaardigheid instellen"
 
+#, fuzzy
 msgid "Set Defense Skill"
 msgstr "Verdedigingsvaardigheid instellen"
 
+#, fuzzy
 msgid "Set Power Skill"
 msgstr "Krachtsvaardigheid instellen"
 
+#, fuzzy
 msgid "Set Knowledge Skill"
 msgstr "Kennisvaardigheid instellen"
 
-#, fuzzy
 msgid "%{race1} %{name1} vs %{race2} %{name2}"
-msgstr "%{race1} %{name1}"
+msgstr "%{race1} %{name1} tegen %{race2} %{name2}"
 
+#, fuzzy
 msgid "Monsters"
 msgstr "Monsters"
 
+#, fuzzy
 msgid "N/A"
 msgstr "Nvt"
 
 msgid "Left Turret"
-msgstr "Linker torentje"
+msgstr "Linkertoren"
 
 msgid "Right Turret"
-msgstr "Rechter torentje"
+msgstr "Rechtertoren"
 
 msgid "The %{name} fires with the strength of %{count} Archers"
-msgstr "De %{name} vuurt met de kracht van %{count} Boogschutters"
+msgstr "De %{name} schiet met de kracht van %{count} Boogschutters"
 
+#, fuzzy
 msgid "each with a +%{attack} bonus to their attack skill."
 msgstr "elk met een +%{attack} bonus voor hun aanvalsvaardigheid."
 
-#, fuzzy
 msgid "The %{name} is destroyed."
-msgstr "Het spiegelbeeld is vernietigd!"
+msgstr "De %{name} is vernietigd."
 
-#, fuzzy
 msgid "%{count} %{name} rises from the dead!"
 msgid_plural "%{count} %{name} rise from the dead!"
-msgstr[0] "%{count} %{name} opstaan uit de dood!"
-msgstr[1] "%{count} %{name} opstaan uit de dood!"
+msgstr[0] "%{count} %{name} staat op uit de dood!"
+msgstr[1] "%{count} %{name} staan op uit de dood!"
 
 msgid "Dwarven Alliance"
-msgstr "Dwergen Alliantie"
+msgstr "Dwergenalliantie"
 
 msgid "Sorceress Guild"
-msgstr "Tovenares Gilde"
+msgstr "Toverheksengilde"
 
 msgid "Necromancer Guild"
-msgstr "Necromancer gilde"
+msgstr "Gilde der Dodenbezweerders"
 
 msgid "Ogre Alliance"
-msgstr "Ogre Alliantie"
+msgstr "Boemannenalliantie"
 
 msgid "Dwarfbane"
-msgstr "Drawven Moordenaar"
+msgstr "Dwerggesel"
 
 msgid "Dragon Alliance"
-msgstr "Draken Alliantie"
+msgstr "Drakenalliantie"
 
 msgid "Elven Alliance"
-msgstr "Elven Alliantie"
+msgstr "Elfenalliantie"
 
+#, fuzzy
 msgid "Kraeger defeated"
 msgstr "Kraeger verslagen"
 
 msgid "Wayward Son"
-msgstr "Wayward zoon"
+msgstr "Eigenzinnige zoon"
 
 msgid "Uncle Ivan"
 msgstr "Oom Ivan"
 
+#, fuzzy
 msgid "Annexation"
 msgstr "Annexatie"
 
 msgid "Force of Arms"
-msgstr "Kracht van Wapens"
+msgstr "Wapenkracht"
 
+#, fuzzy
 msgid "Save the Dwarves"
 msgstr "Red de Dwarfen"
 
+#, fuzzy
 msgid "Carator Mines"
 msgstr "Caratormijnen"
 
 msgid "Turning Point"
-msgstr "Draaipunt"
+msgstr "Keerpunt"
 
 msgid "scenarioName|Defender"
-msgstr "Beschermer"
+msgstr "Verdediger"
 
+#, fuzzy
 msgid "Corlagon's Defense"
 msgstr "Corlagons Verdediging"
 
+#, fuzzy
 msgid "The Crown"
 msgstr "De Kroon"
 
 msgid "The Gauntlet"
-msgstr ""
+msgstr "De pantserhandschoen"
 
 msgid "Betrayal"
-msgstr "Veraad"
+msgstr "Verraad"
 
+#, fuzzy
 msgid "Final Justice"
 msgstr "Laatste Gerechtigheid"
 
-#, fuzzy
 msgid ""
 "Roland needs you to defeat the lords near his castle to begin his war of "
 "rebellion against his brother. They are not allied with each other, so they "
@@ -1061,10 +1162,11 @@ msgid ""
 "when you have defeated all of their castles and heroes."
 msgstr ""
 "Roland heeft je nodig om de heren in de buurt van zijn kasteel te verslaan "
-"om zijn rebellie tegen zijn broer te beginnen. Ze zijn niet met elkaar "
-"verbonden, dus zullen ze het grootste deel van hun tijd met elkaar vechten. "
+"om zijn rebellie tegen zijn broer te starten. Ze zijn niet met elkaar "
+"geallieerd, dus zullen ze het grootste deel van hun tijd met elkaar vechten. "
 "De overwinning is van jou als je al hun kastelen en helden hebt verslagen."
 
+#, fuzzy
 msgid ""
 "The local lords refuse to swear allegiance to Roland, and must be subdued. "
 "They are wealthy and powerful, so be prepared for a tough fight. Capture all "
@@ -1079,11 +1181,11 @@ msgid ""
 "of the enemy towns and castles to win, and be sure not to lose all of the "
 "dwarf towns at once, or the enemy will have won."
 msgstr ""
-"Jouw taak is om de Dwergen te verdedigen tegen de troepen van Archibald. "
-"Verover alle vijandige steden en kastelen om te winnen, en zorg ervoor dat "
-"je niet alle dwergsteden in één keer verliest, anders heeft de vijand "
-"gewonnen."
+"Jouw taak is om de Dwergen te verdedigen tegen Archibalds troepen. Verover "
+"alle vijandige steden en kastelen om te winnen, en zorg ervoor dat je niet "
+"alle dwergsteden verliest, anders heeft de vijand gewonnen."
 
+#, fuzzy
 msgid ""
 "You will face four allied enemies in a straightforward fight for resource "
 "and treasure. Capture all of the enemy castles for victory."
@@ -1092,6 +1194,7 @@ msgstr ""
 "gevecht om grondstoffen en schatten. Verover alle vijandelijke kastelen voor "
 "de overwinning."
 
+#, fuzzy
 msgid ""
 "Your enemies are allied against you and start close by, so be ready to come "
 "out fighting. You will need to own all four castles in this small valley to "
@@ -1107,7 +1210,7 @@ msgid ""
 "don't lose Noraston, or you'll lose the scenario. (Hint: There is an enemy "
 "castle on an island in the ocean.)"
 msgstr ""
-"Het Tovenaarsgilde van Noraston heeft Roland om hulp gevraagd tegen een "
+"De toverheksengilde van Noraston heeft Roland om hulp gevraagd tegen een "
 "aanval van Archibalds bondgenoten. Verover alle vijandelijke kastelen om te "
 "winnen, en verlies Noraston niet, anders verlies je het scenario. (Hint: er "
 "is een vijandelijk kasteel op een eiland in de oceaan.)"
@@ -1119,11 +1222,12 @@ msgid ""
 "scenario will be with you in the final battle."
 msgstr ""
 "Verzamel een zo groot mogelijk leger en verover het vijandelijke kasteel "
-"binnen 8 weken. Je wordt tegengewerkt door slechts één vijand, maar je moet "
-"een lange weg afleggen om bij het vijandelijke kasteel te komen. Alle "
-"troepen die je aan het einde van dit scenario in je leger hebt, zullen bij "
-"je zijn in het laatste gevecht."
+"binnen 8 weken. Je wordt tegengewerkt door slechts één vijand, maar moet een "
+"lange weg afleggen om bij het vijandelijke kasteel te komen. Alle troepen "
+"die je aan het einde van dit scenario in je leger hebt, zullen bij je zijn "
+"in het laatste gevecht."
 
+#, fuzzy
 msgid ""
 "Find the Crown before Archibald's heroes find it. Roland will need the Crown "
 "for the final battle against Archibald."
@@ -1137,7 +1241,7 @@ msgid ""
 "enemy. Remember that capturing Lord Corlagon will ensure that he will not "
 "fight against you in the final scenario."
 msgstr ""
-"Drie geallieerde vijanden staan voor je en zegevieren, waaronder Lord "
+"Drie geallieerde vijanden tussen jou en de overwinning, waaronder Lord "
 "Corlagon. Roland bevindt zich in een kasteel in het noordwesten en je zult "
 "verliezen als hij door de vijand valt. Onthoud dat het vangen van Lord "
 "Corlagon ervoor zal zorgen dat hij niet tegen je zal vechten in het laatste "
@@ -1147,48 +1251,53 @@ msgid ""
 "This is the final battle. Both you and your enemy are armed to the teeth, "
 "and all are allied against you. Capture Archibald to end the war!"
 msgstr ""
-"Dit is de laatste strijd. Zowel jij als je vijand zijn tot de tanden "
-"bewapend, en ze zijn allemaal tegen je geallieerd. Vang Archibald om de "
-"oorlog te beëindigen!"
+"Dit is het laatste slachtveld. Zowel jij als je vijand zijn tot de tanden "
+"bewapend, en ze zijn allen tegen je geallieerd. Vang Archibald om de oorlog "
+"te beëindigen!"
 
-#, fuzzy
 msgid ""
 "Switching sides leaves you with three castles against the enemy's one. This "
 "battle will be the easiest one you will face for the rest of the war..."
 "traitor."
 msgstr ""
-"Als je van kant wisselt, krijg je drie kastelen tegen die van de vijand. "
-"Deze strijd zal de gemakkelijkste zijn die je de rest van de oorlog zult "
-"tegenkomen... verrader."
+"Van kant wisselen levert je drie kastelen op, de vijand heeft er slechts "
+"één. Deze strijd zal de gemakkelijkste zijn die je de rest van de oorlog "
+"zult tegenkomen... verrader."
 
+#, fuzzy
 msgid "Barbarian Wars"
 msgstr "Barbaarse Oorlogen"
 
+#, fuzzy
 msgid "First Blood"
 msgstr "Eerste Bloed"
 
 msgid "Necromancers"
-msgstr "Necromancers"
+msgstr "Dodenbezweerders"
 
 msgid "Slay the Dwarves"
-msgstr "Versla de Dwergen"
+msgstr "Dwergenafslachting"
 
+#, fuzzy
 msgid "Country Lords"
 msgstr "Landheren"
 
+#, fuzzy
 msgid "Dragon Master"
 msgstr "Drakenmeester"
 
+#, fuzzy
 msgid "Rebellion"
 msgstr "Opstand"
 
+#, fuzzy
 msgid "Apocalypse"
 msgstr "Apocalypse"
 
+#, fuzzy
 msgid "Greater Glory"
 msgstr "Grotere Glorie"
 
-#, fuzzy
 msgid ""
 "King Archibald requires you to defeat the three enemies in this region. They "
 "are not allied with one another, so they will spend most of their energy "
@@ -1196,10 +1305,11 @@ msgid ""
 "castles and there are no more heroes left to fight."
 msgstr ""
 "King Archibald vereist dat je de drie vijanden in deze regio verslaat. Ze "
-"zijn niet met elkaar verbonden, dus zullen ze het grootste deel van hun "
-"energie onder elkaar vechten. Je wint als je alle vijandelijke kastelen "
-"bezit en er geen helden meer zijn om tegen te vechten."
+"zijn niet met elkaar geallieerd, dus zullen ze het grootste deel van hun "
+"energie spenderen met onder elkaar vechten. Je wint als je alle vijandelijke "
+"kastelen bezit en er geen helden meer zijn om tegen te vechten."
 
+#, fuzzy
 msgid ""
 "You must unify the barbarian tribes of the north by conquering them. As in "
 "the previous mission, the enemy is not allied against you, but they have "
@@ -1217,11 +1327,11 @@ msgid ""
 "have no castle and must take one within 7 days, or lose this battle. (Hint: "
 "The nearest castle is to the southeast.)"
 msgstr ""
-"Weldoener tovenaars hebben het kasteel van de Necromancers ingenomen. Je "
-"moet het heroveren om de overwinning te behalen. Onthoud dat terwijl je "
-"begint met een machtig leger, je geen kasteel hebt en er binnen 7 dagen een "
-"moet veroveren, anders verlies je deze strijd. (Hint: het dichtstbijzijnde "
-"kasteel ligt in het zuidoosten.)"
+"Wereldverbeteraar-tovenaars hebben het kasteel van de dodenbezweerders "
+"ingenomen. Je moet het heroveren om de overwinning te behalen. Onthoud dat "
+"zelfs al start je met een machtig leger, je hebt geen kasteel en moet er "
+"binnen 7 dagen één kapen, anders verlies je deze strijd. (Hint: het "
+"dichtstbijzijnde kasteel ligt in het zuidoosten.)"
 
 msgid ""
 "The dwarves need conquering before they can interfere in King Archibald's "
@@ -1230,10 +1340,10 @@ msgid ""
 "enemy towns and castles to claim victory."
 msgstr ""
 "De dwergen moeten worden overwonnen voordat ze zich kunnen bemoeien met de "
-"plannen van koning Archibald. Rolands strijdkrachten hebben om te beginnen "
-"meer dan één held en veel steden, dus wees voorbereid op aanvallen vanuit "
-"meerdere richtingen. Je moet alle vijandige steden en kastelen veroveren om "
-"de overwinning te claimen."
+"plannen van koning Archibald. Rolands troepen starten met meer dan één held "
+"en veel steden, dus wees voorbereid op aanvallen vanuit meerdere richtingen. "
+"Je moet alle vijandige steden en kastelen veroveren om de overwinning te "
+"claimen."
 
 msgid ""
 "You must put down a peasant revolt led by Roland's forces. All are allied "
@@ -1241,9 +1351,10 @@ msgid ""
 "Capture all enemy castles to win."
 msgstr ""
 "Je moet een boerenopstand neerslaan onder leiding van Rolands troepen. Ze "
-"zijn allemaal tegen je geallieerd, maar je hebt Lord Corlagon, een ervaren "
+"zijn allen tegen je geallieerd, maar je hebt Lord Corlagon, een ervaren "
 "held, om je te helpen. Verover alle vijandelijke kastelen om te winnen."
 
+#, fuzzy
 msgid ""
 "There are two enemies allied against you in this mission. Both are well "
 "armed and seek to evict you from their island. Avoid them and capture Dragon "
@@ -1262,8 +1373,9 @@ msgstr ""
 "Jouw orders zijn om de landheren te veroveren die gezworen hebben om Roland "
 "te dienen. Alle vijandige kastelen zijn tegen je verenigd. Aangezien je "
 "zonder kasteel begint, moet je je haasten om er voor het einde van de week "
-"een te veroveren. Verover alle vijandelijke kastelen voor de overwinning."
+"één te veroveren. Verover alle vijandelijke kastelen voor de overwinning."
 
+#, fuzzy
 msgid ""
 "Find the Crown before Roland's heroes find it. Archibald will need the Crown "
 "for the final battle against Roland."
@@ -1277,34 +1389,42 @@ msgid ""
 "not to lose Archibald in the fight!"
 msgstr ""
 "Dit is de laatste strijd. Zowel jij als je vijand zijn tot de tanden "
-"bewapend, en ze zijn allemaal tegen je geallieerd. Leg Roland vast om de "
-"oorlog te winnen en zorg ervoor dat je Archibald niet verliest in het "
-"gevecht!"
+"bewapend, en ze zijn allen tegen je geallieerd. Vang Roland om de oorlog te "
+"winnen en zorg ervoor dat je Archibald niet verliest in het gevecht!"
 
+#, fuzzy
 msgid "Arrow's Flight"
 msgstr "De vlucht van de Pijl"
 
+#, fuzzy
 msgid "Island of Chaos"
 msgstr "Eiland van Chaos"
 
+#, fuzzy
 msgid "The Abyss"
 msgstr "De Afgrond"
 
+#, fuzzy
 msgid "Uprising"
 msgstr "Opstand"
 
+#, fuzzy
 msgid "Aurora Borealis"
 msgstr "Noorderlicht"
 
+#, fuzzy
 msgid "Betrayal's End"
 msgstr "Het einde van verraad"
 
+#, fuzzy
 msgid "Corruption's Heart"
 msgstr "Het hart van corruptie"
 
+#, fuzzy
 msgid "The Giant's Pass"
 msgstr "De Reuzenpas"
 
+#, fuzzy
 msgid ""
 "Subdue the unruly local lords in order to provide the Empire with facilities "
 "to operate in this region."
@@ -1316,15 +1436,15 @@ msgid ""
 "Eliminate all opposition in this area. Then the first piece of the artifact "
 "will be yours."
 msgstr ""
-"Elimineer alle oppositie op dit gebied. Dan is het eerste stuk van het "
+"Elimineer alle oppositie in dit gebied. Dan is het eerste stuk van het "
 "artefact van jou."
 
 msgid ""
 "The sorceresses to the northeast are rebelling! For the good of the empire "
 "you must quash their feeble uprising on your way to the mountains."
 msgstr ""
-"De tovenaressen in het noordoosten komen in opstand! Voor het welzijn van "
-"het rijk moet je hun zwakke opstand neerslaan op weg naar de bergen."
+"De tovenheksen in het noordoosten komen in opstand! Voor het welzijn van het "
+"rijk moet je hun zwakke opstand vernietigen op weg naar de bergen."
 
 msgid ""
 "Having prepared for your arrival, Kraeger has arranged for a force of "
@@ -1333,10 +1453,11 @@ msgid ""
 "strong for you."
 msgstr ""
 "Kraeger heeft zich voorbereid op je komst en heeft een leger van "
-"necromancers geregeld om je zoektocht te dwarsbomen. Je moet het kasteel van "
-"Scabsdale veroveren voor de eerste dag van de derde week, anders zijn de "
+"dodenbezweerders geregeld om je zoektocht te dwarsbomen. Je moet het kasteel "
+"van Scabsdale veroveren voor de eerste dag van de derde week, anders zijn de "
 "Necromancers te sterk voor je."
 
+#, fuzzy
 msgid ""
 "The barbarian despot in this area is, as yet, ignorant of your presence. "
 "Quickly, build up your forces before you are discovered and attacked! Secure "
@@ -1354,8 +1475,9 @@ msgstr ""
 "Het rijk is zwak in deze regio. Je zult niet in staat zijn om alle troepen "
 "in dit gebied volledig te bedwingen, dus pak wat je kunt voordat "
 "represailles toeslaan. Onthoud dat je echte doel is om de Helm van Anduran "
-"te claimen."
+"op te eisen."
 
+#, fuzzy
 msgid "For the good of the Empire, eliminate Kraeger."
 msgstr "Schakel Kraeger uit voor het welzijn van het rijk."
 
@@ -1365,30 +1487,38 @@ msgid ""
 "hero for all time."
 msgstr ""
 "Eindelijk heb je de kans en de faciliteiten om het rijk te verlossen van het "
-"kwaad van de necromancer. Als je ze volledig uitroeit, word je voor altijd "
-"als een held bezongen."
+"kwaad van de dodenbezweerders. Als je ze volledig uitroeit, word je voor "
+"altijd als een held bezongen."
 
+#, fuzzy
 msgid "Border Towns"
 msgstr "Grenssteden"
 
+#, fuzzy
 msgid "Conquer and Unify"
 msgstr "Verover en verenig"
 
+#, fuzzy
 msgid "Crazy Uncle Ivan"
 msgstr "Gekke Oom Ivan"
 
+#, fuzzy
 msgid "The Wayward Son"
 msgstr "De Eigenzinnige Zoon"
 
+#, fuzzy
 msgid "Ivory Gates"
 msgstr "Ivoren Poorten"
 
+#, fuzzy
 msgid "The Elven Lands"
 msgstr "De Elfen Landen"
 
+#, fuzzy
 msgid "The Epic Battle"
 msgstr "De Epische Strijd"
 
+#, fuzzy
 msgid "The Southern War"
 msgstr "De Zuidelijke Oorlog"
 
@@ -1397,14 +1527,14 @@ msgid ""
 "forefather of all descendants."
 msgstr ""
 "Verover en verenig alle vijandige stammen. Verlies de held Jarkonas niet, de "
-"voorvader van alle nakomelingen."
+"voorvader van alle afstammelingen."
 
 msgid ""
 "Your rival, the Kingdom of Harondale, is attacking weak towns on your "
 "border! Recover from their first strike and crush them completely!"
 msgstr ""
-"Je rivaal, het koninkrijk Harondale, valt zwakke steden aan je grens aan! "
-"Herstel van hun eerste aanval en verpletter ze volledig!"
+"Jouw rivaal, het koninkrijk Harondale, valt zwakke steden aan je grens aan! "
+"Herstel van hun eerste aanval en verpletter hen volledig!"
 
 msgid ""
 "Find your wayward son Joseph who is rumored to be living in the desolate "
@@ -1413,8 +1543,9 @@ msgid ""
 msgstr ""
 "Vind je eigenzinnige zoon Joseph, van wie wordt gezegd dat hij in de "
 "verlaten landen woont. Doe het voor de eerste dag van de derde maand, anders "
-"heeft je gezin er niets aan."
+"heeft je familie er niets aan."
 
+#, fuzzy
 msgid ""
 "Rescue your crazy uncle Ivan. Find him before the first day of the fourth "
 "month or it will be no help to your kingdom."
@@ -1422,6 +1553,7 @@ msgstr ""
 "Red je gekke oom Ivan. Vind hem voor de eerste dag van de vierde maand of "
 "het zal je koninkrijk niet helpen."
 
+#, fuzzy
 msgid ""
 "Destroy the barbarians who are attacking the southern border of your "
 "kingdom! Recover your fallen towns, and then invade the jungle kingdom. "
@@ -1431,9 +1563,11 @@ msgstr ""
 "Herstel je gevallen steden en val dan het junglekoninkrijk binnen. Laat geen "
 "vijand staan."
 
+#, fuzzy
 msgid "Retake the castle of Ivory Gates, which has fallen due to treachery."
 msgstr "Herover het kasteel van Ivory Gates, dat door verraad is gevallen."
 
+#, fuzzy
 msgid ""
 "Gain the favor of the elves. They will not allow trees to be chopped down, "
 "so they will send you wood every 2 weeks. You must complete your mission "
@@ -1443,6 +1577,7 @@ msgstr ""
 "sturen ze je elke 2 weken hout. Je moet je missie voltooien vóór de eerste "
 "dag van de zevende maand, anders zal het koninkrijk zeker vallen."
 
+#, fuzzy
 msgid ""
 "This is the final battle against your rival kingdom of Harondale. Eliminate "
 "everyone, and don't lose the hero Jarkonas VI."
@@ -1451,23 +1586,25 @@ msgstr ""
 "Schakel iedereen uit en verlies de held Jarkonas VI niet."
 
 msgid "Fount of Wizardry"
-msgstr "Bron van Tovenarij"
+msgstr "Bron der Toverkunst"
 
+#, fuzzy
 msgid "Power's End"
 msgstr "Einde van de macht"
 
+#, fuzzy
 msgid "The Eternal Scrolls"
 msgstr "De Eeuwige Rollen"
 
 msgid "The Shrouded Isles"
-msgstr "De Gehulde Eilanden"
+msgstr "De verhulde Eilanden"
 
 msgid ""
 "Your mission is to vanquish the warring mages in the magical Shrouded Isles. "
 "The completion of this task will give you a fighting chance against your "
 "rivals."
 msgstr ""
-"Jouw missie is om de strijdende magiërs op de magische Shrouded Isles te "
+"Jouw missie is om de strijdende magiërs op de magische Verhulde Eilanden te "
 "verslaan. De voltooiing van deze taak geeft je een vechtkans tegen je "
 "rivalen."
 
@@ -1475,17 +1612,16 @@ msgid ""
 "The location of the great library has been discovered! You must make your "
 "way to it, and reclaim the city of Chronos in which it lies."
 msgstr ""
-"De locatie van de grote bibliotheek is ontdekt! Je moet je weg ernaartoe "
-"vinden en de stad Chronos waarin het ligt terugwinnen."
+"De locatie van de grote bibliotheek werd ontdekt! Je moet je weg ernaartoe "
+"vinden en de stad Chronos, waarin het ligt, terugwinnen."
 
-#, fuzzy
 msgid ""
 "Find the Orb of negation, which is said to be buried in this land. There are "
 "clues inscribed on stone obelisks which will help lead you to your prize. "
 "Find the Orb before the first day of the sixth month, or your rivals will "
 "surely have gotten to the fount before you."
 msgstr ""
-"Vind de bol van ontkenning, waarvan wordt gezegd dat deze in dit land "
+"Vind de bol van Tenietdoening, waarvan wordt gezegd dat deze in dit land "
 "begraven ligt. Er zijn aanwijzingen op stenen obelisken gegraveerd die je "
 "naar je prijs zullen leiden. Vind de bol vóór de eerste dag van de zesde "
 "maand, anders zullen je rivalen zeker de bron voor je hebben bereikt."
@@ -1494,21 +1630,26 @@ msgid ""
 "You must take control of the castle of Magic, where the fount of wizardry "
 "lies. Do this and your victory will be supreme."
 msgstr ""
-"Je moet het kasteel van Magic overnemen, waar de bron van tovenarij ligt. "
+"Je moet het kasteel van Magie overnemen, waar de Bron der Toverkunst ligt. "
 "Doe dit en je overwinning zal oppermachtig zijn."
 
+#, fuzzy
 msgid "Blood is Thicker"
 msgstr "Bloed is Dikker"
 
+#, fuzzy
 msgid "King and Country"
 msgstr "Koning en Land"
 
+#, fuzzy
 msgid "Pirate Isles"
 msgstr "Pirateneilanden"
 
+#, fuzzy
 msgid "Stranded"
 msgstr "Gestrand"
 
+#, fuzzy
 msgid ""
 "Capture the town on the island off the southeast shore in order to construct "
 "a boat and travel back towards the mainland. Do not lose the hero Gallavant."
@@ -1520,89 +1661,101 @@ msgid ""
 "Find and defeat Martine, the pirate leader, who resides in Pirates Cove. Do "
 "not lose Gallavant or your quest will be over."
 msgstr ""
-"Vind en versla Martine, de piratenleider, die in Pirates Cove woont. Verlies "
+"Vind en versla Martine, de piratenleider, die in Piratebaai woont. Verlies "
 "Gallavant niet, anders is je zoektocht voorbij."
 
 msgid ""
 "Eliminate all the other forces who oppose the rule of Lord Alberon. "
 "Gallavant must not die."
 msgstr ""
-"Schakel alle andere krachten uit die zich verzetten tegen de heerschappij "
-"van Lord Alberon. Gallavant mag niet sterven."
+"Schakel alle andere machten uit die zich verzetten tegen de heerschappij van "
+"Lord Alberon. Gallavant mag niet sterven."
 
 msgid ""
 "Overthrow the entrenched monarchy of Lord Alberon, and claim all the land in "
 "your name. Gallavant must not die."
 msgstr ""
-"Omver de diepgewortelde monarchie van Lord Alberon en claim al het land in "
-"je naam. Gallavant mag niet sterven."
+"Werp de diepgewortelde monarchie van Lord Alberon omver en claim al het land "
+"in jouw naam. Gallavant mag niet sterven."
 
+#, fuzzy
 msgid " bane"
 msgstr " vloek"
 
+#, fuzzy
 msgid " alliance"
 msgstr " alliantie"
 
 msgid "Carry-over forces"
-msgstr "Overdrachtskrachten"
+msgstr "Overgedragen troepen"
 
+#, fuzzy
 msgid " bonus"
 msgstr " bonus"
 
+#, fuzzy
 msgid " defeated"
 msgstr " verslagen"
 
+#, fuzzy
 msgid " will always run away from your army."
 msgstr " zal altijd wegrennen van je leger."
 
+#, fuzzy
 msgid " will be willing to join your army."
 msgstr " zal bereid zijn om zich bij je leger aan te sluiten."
 
 msgid "\"%{artifact}\" artifact will be carried over the scenario."
-msgstr "\"%{artifact}\" artefact zal over het scenario worden overgedragen."
+msgstr ""
+"\"%{artifact}\" artefact zal overgedragen worden naar het volgende scenario."
 
 msgid "The army will be carried over the scenario."
-msgstr "Het leger zal het scenario overnemen."
+msgstr "Het leger zal overgedragen worden naar het volgende scenario."
 
+#, fuzzy
 msgid "The kingdom will have +%{count} %{resource} each day."
 msgstr "Het koninkrijk zal elke dag +%{count} %{resource} hebben."
 
 msgid "\"%{spell}\" spell will be carried over the scenario."
-msgstr "De spreuk \"%{spell}\" wordt over het scenario overgedragen."
+msgstr ""
+"De spreuk \"%{spell}\" zal naar het volgende scenario worden overgedragen."
 
+#, fuzzy
 msgid "%{hero} can be hired in the scenario."
 msgstr "%{hero} kan worden ingehuurd in het scenario."
 
+#, fuzzy
 msgid ""
 "%{hero} has been defeated and will not appear in the subsequent scenarios."
 msgstr ""
 "%{hero} is verslagen en zal niet verschijnen in de volgende scenario's."
 
+#, fuzzy
 msgid "The dwarves recognize their allies and gladly join your forces."
 msgstr "De dwergen herkennen hun bondgenoten en sluiten zich graag bij je aan."
 
 msgid "The ogres recognize you as the Dwarfbane and lumber over to join you."
 msgstr ""
-"De ogres herkennen je als de Drawven Moordenaar en sjokken naar je toe."
+"De boemannen herkennen je als Dwerggesel en treden naar je toe om mee te "
+"gaan."
 
 msgid ""
 "The dragons, snarling and growling, agree to join forces with you, their "
 "'Ally'."
 msgstr ""
-"De draken komen grommend en grommend overeen om hun krachten te bundelen met "
+"De draken komen grommend en grauwend overeen om hun krachten te bundelen met "
 "jou, hun 'bondgenoot'."
 
-#, fuzzy
 msgid ""
 "As you approach the group of elves, their leader calls them all to "
 "attention. He shouts to them, \"Who of you is brave enough to join this "
 "fearless ally of ours?\" The group explodes with cheers as they run to join "
 "your ranks."
 msgstr ""
-"Als je de groep elfen nadert, roept hun leider ze allemaal onder de "
-"aandacht. Hij roept naar hen: 'Wie van jullie is dapper genoeg om zich bij "
-"deze onverschrokken bondgenoot van ons aan te sluiten?' De groep explodeert "
-"met gejuich terwijl ze rennen om zich bij je gelederen te voegen."
+"Wanneer je de groep elfen nadert, roept hun leider hen tot de aandacht. Hij "
+"roept naar hen: 'Wie van jullie is dapper genoeg om zich bij deze "
+"onverschrokken bondgenoot van ons aan te sluiten?' De groep explodeert met "
+"gejuich terwijl ze rennen om zich bij je gelederen te voegen."
 
 #, fuzzy
 msgid ""
@@ -1615,42 +1768,40 @@ msgstr ""
 msgid ""
 "The ogres give you a grunt of recognition, \"Archibald's allies may pass.\""
 msgstr ""
-"De ogres geven je een grom van herkenning, \"Archibald's bondgenoten kunnen "
-"passeren.\""
+"De boemannen geven je een grom van herkenning, \"Archibald's bondgenoten "
+"kunnen passeren.\""
 
-#, fuzzy
 msgid ""
 "The dragons see you and call out. \"Our alliance with Archibald compels us "
 "to join you. Unfortunately you have no room. A pity!\" They quickly scatter."
 msgstr ""
-"De draken zien je en roepen. \"Onze alliantie met Archibald dwingt ons om "
+"De draken zien je en roepen. \"Onze alliantie met Archibald verplicht ons om "
 "met je mee te doen. Helaas heb je geen ruimte. Jammer!\" Ze verspreiden zich "
 "snel."
 
-#, fuzzy
 msgid ""
 "The elves stand at attention as you approach. Their leader calls to you and "
 "says, \"Let us not impede your progress, ally! Move on, and may victory be "
 "yours.\""
 msgstr ""
-"De elfen staan in de houding als je dichterbij komt. Hun leider roept je en "
+"De elfen staan paraat wanneer je dichterbij komt. Hun leider roept je en "
 "zegt: \"Laten we je voortgang niet belemmeren, bondgenoot! Ga verder, en "
 "moge de overwinning van jou zijn.\""
 
 msgid "\"The Dwarfbane!!!!, run for your lives.\""
-msgstr "\"De Drawven Moordenaar!!!!, ren voor je leven.\""
+msgstr "\"De Dwergengesel!!!! Ren voor je leven.\""
 
 msgid "campaignBonus|Animate Dead"
-msgstr "Dood Animeren"
+msgstr "Doden opwekken"
 
 msgid "campaignBonus|Chain Lightning"
-msgstr "Ketting Bliksem"
+msgstr "Bliksemketting"
 
 msgid "campaignBonus|Fireblast"
-msgstr "Vuurstraal"
+msgstr "Vuurknal"
 
 msgid "campaignBonus|Mass Curse"
-msgstr "Massa Vloek"
+msgstr "Massale Vloek"
 
 msgid "campaignBonus|Mass Haste"
 msgstr "Massale Haast"
@@ -1677,7 +1828,7 @@ msgid "campaignBonus|Black Pearl"
 msgstr "Zwarte Parel"
 
 msgid "campaignBonus|Caster's Bracelet"
-msgstr "Magiers's Armband"
+msgstr "Magiërs Armband"
 
 msgid "campaignBonus|Defender Helm"
 msgstr "Verdediger Helm"
@@ -1692,17 +1843,16 @@ msgid "campaignBonus|Fizbin Medal"
 msgstr "Fizbin Medaille"
 
 msgid "campaignBonus|Foremost Scroll"
-msgstr "Voorste Scroll"
+msgstr "Voornaamste Scroll"
 
-#, fuzzy
 msgid "campaignBonus|Gauntlets"
-msgstr "Ballista"
+msgstr "Pantserhandschoenen"
 
 msgid "campaignBonus|Hideous Mask"
 msgstr "Afschuwelijk Masker"
 
 msgid "campaignBonus|Mage's Ring"
-msgstr "Magiër's Ring"
+msgstr "Magiërs Ring"
 
 msgid "campaignBonus|Major Scroll"
 msgstr "Grote Rol"
@@ -1726,13 +1876,13 @@ msgid "campaignBonus|Spiked Shield"
 msgstr "Puntig Schild"
 
 msgid "campaignBonus|Stealth Shield"
-msgstr "Stealth-schild"
+msgstr "Sluipschild"
 
 msgid "campaignBonus|Tax Lien"
 msgstr "Belastingrecht"
 
 msgid "campaignBonus|Thunder Mace"
-msgstr "Donderstaf"
+msgstr "Dondergoedendag"
 
 msgid "campaignBonus|Traveler's Boots"
 msgstr "Reizigerslaarzen"
@@ -1849,23 +1999,24 @@ msgid "campaignBonus|Expert Pathfinding"
 msgstr "Expert Padvinden"
 
 msgid "campaignBonus|Basic Scouting"
-msgstr "Basis Scouting"
+msgstr "Basis Verkennen"
 
 msgid "campaignBonus|Advanced Scouting"
-msgstr "Geavanceerd Scouting"
+msgstr "Geavanceerd Verkennen"
 
 msgid "campaignBonus|Expert Scouting"
-msgstr "Expert Scouting"
+msgstr "Expert Verkennen"
 
 msgid "campaignBonus|Basic Wisdom"
-msgstr "Basis Wijsdom"
+msgstr "Basis Wijsheid"
 
 msgid "campaignBonus|Advanced Wisdom"
-msgstr "Geavanceerd Wijsdom"
+msgstr "Geavanceerd Wijsheid"
 
 msgid "campaignBonus|Expert Wisdom"
-msgstr "Expert Wijsdom"
+msgstr "Expert Wijsheid"
 
+#, fuzzy
 msgid ""
 "The main hero will have \"%{artifact}\" artifact at the start of the "
 "scenario."
@@ -1873,6 +2024,7 @@ msgstr ""
 "De hoofdheld zal het \"%{artifact}\" artefact hebben aan het begin van het "
 "scenario."
 
+#, fuzzy
 msgid ""
 "The kingdom will receive %{amount} additional %{resource} at the start of "
 "the scenario."
@@ -1884,18 +2036,21 @@ msgid ""
 "The kingdom will have %{amount} less %{resource} at the start of the "
 "scenario."
 msgstr ""
-"Het koninkrijk zal %{amount} minder %{resource} hebben aan het begin van het "
+"Het koninkrijk zal %{amount} %{resource} minder hebben aan het begin van het "
 "scenario."
 
+#, fuzzy
 msgid ""
 "The main hero will have %{count} %{monster} at the start of the scenario."
 msgstr "De hoofdheld heeft %{count} %{monster} aan het begin van het scenario."
 
+#, fuzzy
 msgid ""
 "The main hero will have \"%{spell}\" spell at the start of the scenario."
 msgstr ""
 "De hoofdheld heeft de spreuk \"%{spell}\" aan het begin van het scenario."
 
+#, fuzzy
 msgid "The starting race of the scenario will be %{race}."
 msgstr "De startrace van het scenario is %{race}."
 
@@ -1903,14 +2058,17 @@ msgid ""
 "The main hero will have additional %{count} %{skill} at the start of the "
 "scenario."
 msgstr ""
-"De hoofdheld heeft extra %{count} %{skill} aan het begin van het scenario."
+"De hoofdheld heeft %{count} %{skill} extra aan het begin van het scenario."
 
+#, fuzzy
 msgid "The main hero will have %{skill} at the start of the scenario."
 msgstr "De hoofdheld heeft %{skill} aan het begin van het scenario."
 
+#, fuzzy
 msgid "Roland"
 msgstr "Roland"
 
+#, fuzzy
 msgid "Archibald"
 msgstr "Archibald"
 
@@ -1919,476 +2077,486 @@ msgid "Price of Loyalty"
 msgstr "De Prijs van Loyaliteit"
 
 msgid "Voyage Home"
-msgstr "Rijs Naar Huis"
+msgstr "Reis Naar Huis"
 
+#, fuzzy
 msgid "Wizard's Isle"
 msgstr "Tovenaarseiland"
 
+#, fuzzy
 msgid "Descendants"
 msgstr "Afstammelingen"
 
+#, fuzzy
 msgid "The %{building} produces %{monster}."
 msgstr "Het %{building} produceert %{monster}."
 
+#, fuzzy
 msgid "Requires:"
 msgstr "Vereist:"
 
 msgid "Exit this menu without doing anything."
-msgstr ""
+msgstr "Verlaat dit menu zonder wijzigingen."
 
+#, fuzzy
 msgid "Cannot build. You have already built here today."
 msgstr "Kan niet bouwen. Je hebt hier vandaag al gebouwd."
 
+#, fuzzy
 msgid "For this action it is necessary to build a castle first."
 msgstr "Voor deze actie moet je eerst een kasteel bouwen."
 
-#, fuzzy
 msgid "Cannot build %{name} because the castle is too far away from an ocean."
-msgstr "Kan %{name} niet bouwen omdat het kasteel te ver van water is."
+msgstr "Kan %{name} niet bouwen omdat het kasteel te ver de oceaan is."
 
+#, fuzzy
 msgid "disable build."
 msgstr "bouwen uitschakelen."
 
 msgid "Cannot afford %{name}."
-msgstr "Kan %{name} niet betalen."
+msgstr "Kan %{name} niet veroorloven."
 
+#, fuzzy
 msgid "%{name} is already built."
 msgstr "%{name} is al gebouwd."
 
+#, fuzzy
 msgid "Cannot build %{name}."
 msgstr "Kan %{name} niet bouwen."
 
+#, fuzzy
 msgid "Build %{name}."
 msgstr "Bouw %{name}."
 
 msgid "Blackridge"
-msgstr ""
+msgstr "Zwartkam"
 
 msgid "Hillstone"
-msgstr ""
+msgstr "Heuvelsteen"
 
 msgid "Pinehurst"
-msgstr ""
+msgstr "Denhork"
 
 msgid "Whiteshield"
-msgstr ""
+msgstr "Witteschild"
 
 msgid "Woodhaven"
-msgstr ""
+msgstr "Houthaven"
 
 msgid "Blackwind"
-msgstr ""
+msgstr "Duisterwinde"
 
 msgid "Bloodreign"
-msgstr ""
+msgstr "Bloedvorst"
 
+#, fuzzy
 msgid "Dragontooth"
 msgstr "Drakentand"
 
 msgid "Greywind"
-msgstr ""
+msgstr "Grijswinde"
 
 msgid "Portsmith"
-msgstr ""
+msgstr "Poortsmede"
 
 msgid "Atlantium"
-msgstr ""
+msgstr "Atlantium"
 
 msgid "Middle Gate"
-msgstr ""
+msgstr "Middelpoort"
 
 msgid "Sansobar"
-msgstr ""
+msgstr "Sansobar"
 
 msgid "Tundara"
-msgstr ""
+msgstr "Tundara"
 
 msgid "Vulcania"
-msgstr ""
+msgstr "Vulcania"
 
 msgid "Baywatch"
-msgstr ""
+msgstr "Baaizicht"
 
 msgid "Fountainhead"
-msgstr ""
+msgstr "Fonteinkop"
 
 msgid "Vertigo"
-msgstr ""
+msgstr "Vertigo"
 
 msgid "Wildabar"
-msgstr ""
+msgstr "Wildabar"
 
 msgid "Winterkill"
-msgstr ""
+msgstr "Wintermoorde"
 
 msgid "Brindamoor"
-msgstr ""
+msgstr "Brindaveen"
 
 msgid "Lakeside"
-msgstr ""
+msgstr "Meerzijde"
 
 msgid "Nightshadow"
-msgstr ""
+msgstr "Nachtschaduw"
 
 msgid "Olympus"
-msgstr ""
+msgstr "Olympus"
 
 msgid "Sandcaster"
-msgstr ""
+msgstr "Zandkaster"
 
 msgid "Alamar"
-msgstr ""
+msgstr "Alamar"
 
 msgid "Burlock"
-msgstr ""
+msgstr "Berlake"
 
 msgid "Dragadune"
-msgstr ""
+msgstr "Dragadune"
 
 msgid "Kalindra"
-msgstr ""
+msgstr "Kalindra"
 
 msgid "Xabran"
-msgstr ""
+msgstr "Xabran"
 
 msgid "Algary"
-msgstr ""
+msgstr "Algarie"
 
 msgid "Basenji"
-msgstr ""
+msgstr "Basenji"
 
 msgid "Blackfang"
-msgstr ""
+msgstr "Zwarttand"
 
 msgid "New Dawn"
-msgstr ""
+msgstr "Nieuwgloren"
 
 msgid "Sorpigal"
-msgstr ""
+msgstr "Sorpigal"
 
 msgid "Avone"
-msgstr ""
+msgstr "Avone"
 
 msgid "Big Oak"
-msgstr ""
+msgstr "Grote Eik"
 
 msgid "Chandler"
-msgstr ""
+msgstr "Kandelier"
 
 msgid "Erliquin"
-msgstr ""
+msgstr "Erlekijn"
 
 msgid "Hampshire"
-msgstr ""
+msgstr "Hamschure"
 
 msgid "Antioch"
-msgstr ""
+msgstr "Antioch"
 
 msgid "Avalon"
-msgstr ""
+msgstr "Avalon"
 
 msgid "Roc Haven"
-msgstr ""
+msgstr "Valkhaven"
 
 msgid "South Mill"
-msgstr ""
+msgstr "Zuidmolen"
 
 msgid "Weed Patch"
-msgstr ""
+msgstr "Kruidplek"
 
 msgid "Brownston"
-msgstr ""
+msgstr "Bruinsteen"
 
 msgid "Hilltop"
-msgstr ""
+msgstr "Heuveltop"
 
 msgid "Weddington"
-msgstr ""
+msgstr "Trouwetonne"
 
 msgid "Westfork"
-msgstr ""
+msgstr "Westvork"
 
 msgid "Whittingham"
-msgstr ""
+msgstr "Pientergem"
 
 msgid "Cathcart"
-msgstr ""
+msgstr "Katkart"
 
 msgid "Elk's Head"
-msgstr ""
+msgstr "Elandkop"
 
 msgid "Roscomon"
-msgstr ""
+msgstr "Roscomon"
 
 msgid "Sherman"
-msgstr ""
+msgstr "Scherman"
 
 msgid "Yorksford"
-msgstr ""
+msgstr "Yorksvoort"
 
 msgid "Blackburn"
-msgstr ""
+msgstr "Zwartbrand"
 
 msgid "Blacksford"
-msgstr ""
+msgstr "Zwartvoorde"
 
 msgid "Burton"
-msgstr ""
+msgstr "Bertone"
 
 msgid "Pig's Eye"
-msgstr ""
+msgstr "Zwijnenoog"
 
 msgid "Viper's Nest"
-msgstr ""
+msgstr "Addernest"
 
 msgid "Fenton"
-msgstr ""
+msgstr "Fentone"
 
 msgid "Lankershire"
-msgstr ""
+msgstr "Lankerschrei"
 
 msgid "Lombard"
-msgstr ""
+msgstr "Lombarde"
 
 msgid "Timberhill"
-msgstr ""
+msgstr "Houtheuvel"
 
 msgid "Troy"
-msgstr ""
+msgstr "Troje"
 
 msgid "Forder Oaks"
-msgstr ""
+msgstr "Voorder Eik"
 
 msgid "Meramec"
-msgstr ""
+msgstr "Meramec"
 
 msgid "Quick Silver"
-msgstr ""
+msgstr "Kwik Zilver"
 
 msgid "Westmoor"
-msgstr ""
+msgstr "Westveen"
 
 msgid "Willow"
-msgstr ""
+msgstr "Wilge"
 
 msgid "Corackston"
-msgstr ""
+msgstr "Krakstene"
 
 msgid "Sheltemburg"
-msgstr ""
+msgstr "Scheldeburg"
 
 msgid "Cannot recruit - you already have a Hero in this town."
-msgstr ""
+msgstr "Kan niet rekruteren - je hebt al een held in dit dorp."
 
 msgid "Cannot recruit - you have too many Heroes."
-msgstr ""
+msgstr "Kan niet rekruteren - je hebt teveel helden."
 
 msgid "Cannot afford a Hero"
-msgstr ""
+msgstr "Kan geen held veroorloven"
 
 msgid "There is no room in the garrison for this army."
-msgstr ""
+msgstr "Er is geen plaats in het garnizoen voor dit leger."
 
 msgid "Fortifications"
-msgstr ""
+msgstr "Kantelen"
 
 msgid "Farm"
-msgstr ""
+msgstr "Boerderij"
 
 msgid "Thatched Hut"
-msgstr ""
+msgstr "Rieten hut"
 
 msgid "Archery Range"
-msgstr ""
+msgstr "Boogschietbaan"
 
 msgid "Upg. Archery Range"
-msgstr ""
+msgstr "Upg. Boogschietbaan"
 
 msgid "Blacksmith"
-msgstr ""
+msgstr "Smederij"
 
 msgid "Upg. Blacksmith"
-msgstr ""
+msgstr "Upg. Smederij"
 
 msgid "Armory"
-msgstr ""
+msgstr "Arsenaal"
 
 msgid "Upg. Armory"
-msgstr ""
+msgstr "Upg. Arsenaal"
 
 msgid "Jousting Arena"
-msgstr ""
+msgstr "Steekspelarena"
 
 msgid "Upg. Jousting Arena"
-msgstr ""
+msgstr "Upg. Steekspelarena"
 
 msgid "Cathedral"
-msgstr ""
+msgstr "Kathedraal"
 
 msgid "Upg. Cathedral"
-msgstr ""
+msgstr "Upg. Kathedraal"
 
 msgid "Coliseum"
-msgstr ""
+msgstr "Coloseum"
 
 msgid "Garbage Heap"
-msgstr ""
+msgstr "Storthoop"
 
 msgid "Hut"
-msgstr ""
+msgstr "Hut"
 
 msgid "Stick Hut"
-msgstr ""
+msgstr "Stokkenhut"
 
 msgid "Upg. Stick Hut"
-msgstr ""
+msgstr "Upg. Stokkenhut"
 
 msgid "Den"
-msgstr ""
+msgstr "Hol"
 
 msgid "Adobe"
-msgstr ""
+msgstr "Adobe"
 
 msgid "Upg. Adobe"
-msgstr ""
+msgstr "Upg. Adobe"
 
 msgid "Bridge"
-msgstr ""
+msgstr "Brug"
 
 msgid "Upg. Bridge"
-msgstr ""
+msgstr "Upg. Brug"
 
 msgid "Pyramid"
-msgstr ""
+msgstr "Piramide"
 
 msgid "Rainbow"
-msgstr ""
+msgstr "Regenboog"
 
 msgid "Crystal Garden"
-msgstr ""
+msgstr "Kristaltuin"
 
 msgid "Treehouse"
-msgstr ""
+msgstr "Boomhut"
 
 msgid "Cottage"
-msgstr ""
+msgstr "Cottage"
 
 msgid "Upg. Cottage"
-msgstr ""
+msgstr "Upg. Cottage"
 
 msgid "Stonehenge"
-msgstr ""
+msgstr "Stonehenge"
 
 msgid "Upg. Stonehenge"
-msgstr ""
+msgstr "Upg. Stonehenge"
 
 msgid "Fenced Meadow"
-msgstr ""
+msgstr "Weide"
 
 msgid "sorceress|Red Tower"
-msgstr ""
+msgstr "sorceress|Rode Toren"
 
 msgid "Dungeon"
-msgstr ""
+msgstr "Kerker"
 
 msgid "Waterfall"
-msgstr ""
+msgstr "Waterval"
 
 msgid "Cave"
-msgstr ""
+msgstr "Grot"
 
 msgid "Crypt"
-msgstr ""
+msgstr "Crypte"
 
 msgid "Nest"
-msgstr ""
+msgstr "Nest"
 
 msgid "Maze"
-msgstr ""
+msgstr "Doolhof"
 
 msgid "Upg. Maze"
-msgstr ""
+msgstr "Upg. Doolhof"
 
 msgid "Swamp"
-msgstr ""
+msgstr "Moeras"
 
 msgid "Green Tower"
-msgstr ""
+msgstr "Groene Toren"
 
 msgid "warlock|Red Tower"
-msgstr ""
+msgstr "warlock|Rode toren"
 
 msgid "Black Tower"
-msgstr ""
+msgstr "Zwarte Toren"
 
 msgid "Library"
-msgstr ""
+msgstr "Bibliotheek"
 
 msgid "Orchard"
-msgstr ""
+msgstr "Boomgaard"
 
 msgid "Habitat"
-msgstr ""
+msgstr "Leefgebied"
 
 msgid "Pen"
-msgstr ""
+msgstr "Stal"
 
 msgid "Foundry"
-msgstr ""
+msgstr "Gieterij"
 
 msgid "Upg. Foundry"
-msgstr ""
+msgstr "Upg. Gieterij"
 
 msgid "Cliff Nest"
-msgstr ""
+msgstr "Klifnest"
 
 msgid "Ivory Tower"
-msgstr ""
+msgstr "Ivoren Toren"
 
 msgid "Upg. Ivory Tower"
-msgstr ""
+msgstr "Upg. Ivoren Toren"
 
 msgid "Cloud Castle"
-msgstr ""
+msgstr "Wolkenkasteel"
 
 msgid "Upg. Cloud Castle"
-msgstr ""
+msgstr "Upg. Wolkenkasteel"
 
 msgid "Storm"
-msgstr ""
+msgstr "Storm"
 
 msgid "Skull Pile"
-msgstr ""
+msgstr "Schedelstapel"
 
 msgid "Excavation"
-msgstr ""
+msgstr "Opgraving"
 
 msgid "Graveyard"
-msgstr ""
+msgstr "Kerkhof"
 
 msgid "Upg. Graveyard"
-msgstr ""
+msgstr "Upg. Kerkhof"
 
 msgid "Upg. Pyramid"
-msgstr ""
+msgstr "Upg. Piramide"
 
 msgid "Mansion"
-msgstr ""
+msgstr "Herenhuis"
 
 msgid "Upg. Mansion"
-msgstr ""
+msgstr "Upg.Herenhuis"
 
 msgid "Mausoleum"
-msgstr ""
+msgstr "Mausoleum"
 
 msgid "Upg. Mausoleum"
-msgstr ""
+msgstr "Mausoleum"
 
 msgid "Laboratory"
-msgstr ""
+msgstr "Laboratorium"
 
 msgid "Shrine"
-msgstr ""
+msgstr "Schrijn"
 
 msgid ""
 "The Fortifications increase the toughness of the walls, increasing the "
@@ -3386,6 +3554,7 @@ msgstr ""
 msgid "The Succession Wars"
 msgstr ""
 
+#, fuzzy
 msgid "The Price of Loyalty"
 msgstr "De Prijs van Loyaliteit"
 
@@ -3988,6 +4157,7 @@ msgstr ""
 msgid "No maps available!"
 msgstr ""
 
+#, fuzzy
 msgid "Warning"
 msgstr "Waarschuuwing"
 
@@ -4593,6 +4763,7 @@ msgstr ""
 msgid "hotkey|dismiss hero or troop"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "Do you want to regain control from AI? The effect will take place only on "
 "the next turn."
@@ -5359,6 +5530,7 @@ msgstr ""
 msgid "Turkish"
 msgstr ""
 
+#, fuzzy
 msgid "Dutch"
 msgstr "Nederlands"
 
