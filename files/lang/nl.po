@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: fheroes2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-03 03:27+0000\n"
-"PO-Revision-Date: 2024-02-18 18:09+0100\n"
+"PO-Revision-Date: 2024-02-22 20:33+0100\n"
 "Last-Translator: fheroes2 team <fhomm2@gmail.com>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "Language: nl\n"
@@ -372,10 +372,10 @@ msgid "army|Swarm"
 msgstr "Zwerm"
 
 msgid "army|Zounds"
-msgstr "army|Tedomme"
+msgstr "Hel en doem"
 
 msgid "army|Legion"
-msgstr "army|Legioen"
+msgstr "Legioen"
 
 msgid "All %{race} troops +1"
 msgstr "Alle %{race} troepen +1"
@@ -855,7 +855,7 @@ msgid "The %{name} resist the spell!"
 msgstr "De %{name} weerstaat de spreuk!"
 
 msgid "%{name} casts %{spell} on the %{troop}."
-msgstr "%{name} gebruikt %{spell} uit op %{troop}."
+msgstr "%{name} gebruikt %{spell} op %{troop}."
 
 msgid "%{name} casts %{spell}."
 msgstr "%{name} gebruikt %{spell}."
@@ -1665,226 +1665,226 @@ msgid "campaignBonus|Animate Dead"
 msgstr "campaignBonus|Doden opwekken"
 
 msgid "campaignBonus|Chain Lightning"
-msgstr "campaignBonus|Bliksemketting"
+msgstr "Bliksemketting"
 
 msgid "campaignBonus|Fireblast"
-msgstr "campaignBonus|Vuurknal"
+msgstr "Vuurknal"
 
 msgid "campaignBonus|Mass Curse"
-msgstr "campaignBonus|Massale Vloek"
+msgstr "Massale Vloek"
 
 msgid "campaignBonus|Mass Haste"
-msgstr "campaignBonus|Massale Haast"
+msgstr "Massale Haast"
 
 msgid "campaignBonus|Mirror Image"
-msgstr "campaignBonus|Spiegelbeeld"
+msgstr "Spiegelbeeld"
 
 msgid "campaignBonus|Resurrect"
-msgstr "campaignBonus|Herrijzen"
+msgstr "Resurrectie"
 
 msgid "campaignBonus|Steelskin"
-msgstr "campaignBonus|Staalhuid"
+msgstr "Staalhuid"
 
 msgid "campaignBonus|Summon Earth"
-msgstr "campaignBonus|Aarde Oproepen"
+msgstr "Aarde Oproepen"
 
 msgid "campaignBonus|View Heroes"
-msgstr "campaignBonus|Bekijk Helden"
+msgstr "Bekijk Helden"
 
 msgid "campaignBonus|Ballista"
-msgstr "campaignBonus|Ballista"
+msgstr "Ballista"
 
 msgid "campaignBonus|Black Pearl"
-msgstr "campaignBonus|Zwarte Parel"
+msgstr "Zwarte Parel"
 
 msgid "campaignBonus|Caster's Bracelet"
-msgstr "campaignBonus|Magiërs Armband"
+msgstr "Magiërs Armband"
 
 msgid "campaignBonus|Defender Helm"
-msgstr "campaignBonus|Verdediger Helm"
+msgstr "Verdediger Helm"
 
 msgid "campaignBonus|Breastplate"
-msgstr "campaignBonus|Borstplaat"
+msgstr "Borstplaat"
 
 msgid "campaignBonus|Dragon Sword"
-msgstr "campaignBonus|Drakenzwaard"
+msgstr "Drakenzwaard"
 
 msgid "campaignBonus|Fizbin Medal"
-msgstr "campaignBonus|Fizbin Medaille"
+msgstr "Fizbin Medaille"
 
 msgid "campaignBonus|Foremost Scroll"
-msgstr "campaignBonus|Voornaamste Scroll"
+msgstr "Voornaamste Scroll"
 
 msgid "campaignBonus|Gauntlets"
-msgstr "campaignBonus|Pantserhandschoenen"
+msgstr "Pantserhandschoenen"
 
 msgid "campaignBonus|Hideous Mask"
-msgstr "campaignBonus|Afschuwelijk Masker"
+msgstr "Afschuwelijk Masker"
 
 msgid "campaignBonus|Mage's Ring"
-msgstr "campaignBonus|Magiërs Ring"
+msgstr "Magiërs Ring"
 
 msgid "campaignBonus|Major Scroll"
-msgstr "campaignBonus|Grote Rol"
+msgstr "Grote Rol"
 
 msgid "campaignBonus|Medal of Honor"
-msgstr "campaignBonus|Medaille van Eer"
+msgstr "Medaille van Eer"
 
 msgid "campaignBonus|Medal of Valor"
-msgstr "campaignBonus|Medaille van Moed"
+msgstr "Medaille van Moed"
 
 msgid "campaignBonus|Minor Scroll"
-msgstr "campaignBonus|Kleine Rol"
+msgstr "Kleine Rol"
 
 msgid "campaignBonus|Nomad Boots"
-msgstr "campaignBonus|Nomadenlaarzen"
+msgstr "Nomadenlaarzen"
 
 msgid "campaignBonus|Power Axe"
-msgstr "campaignBonus|Machtsbijl"
+msgstr "Machtsbijl"
 
 msgid "campaignBonus|Spiked Shield"
-msgstr "campaignBonus|Puntig Schild"
+msgstr "Puntig Schild"
 
 msgid "campaignBonus|Stealth Shield"
-msgstr "campaignBonus|Sluipschild"
+msgstr "Sluipschild"
 
 msgid "campaignBonus|Tax Lien"
-msgstr "campaignBonus|Belastingrecht"
+msgstr "Belastingrecht"
 
 msgid "campaignBonus|Thunder Mace"
-msgstr "campaignBonus|Dondergoedendag"
+msgstr "Dondergoedendag"
 
 msgid "campaignBonus|Traveler's Boots"
-msgstr "campaignBonus|Reizigerslaarzen"
+msgstr "Reizigerslaarzen"
 
 msgid "campaignBonus|White Pearl"
-msgstr "campaignBonus|Witte Parel"
+msgstr "Witte Parel"
 
 msgid "campaignBonus|Basic Archery"
-msgstr "campaignBonus|Basis Boogschieten"
+msgstr "Basis Boogschieten"
 
 msgid "campaignBonus|Advanced Archery"
-msgstr "campaignBonus|Geavanceerd Boogschieten"
+msgstr "Geavanceerd Boogschieten"
 
 msgid "campaignBonus|Expert Archery"
-msgstr "campaignBonus|Expert Boogschieten"
+msgstr "Expert Boogschieten"
 
 msgid "campaignBonus|Basic Ballistics"
-msgstr "campaignBonus|Basis Ballistiek"
+msgstr "Basis Ballistiek"
 
 msgid "campaignBonus|Advanced Ballistics"
-msgstr "campaignBonus|Geavanceerd Ballistiek"
+msgstr "Geavanceerd Ballistiek"
 
 msgid "campaignBonus|Expert Ballistics"
-msgstr "campaignBonus|Expert Ballistiek"
+msgstr "Expert Ballistiek"
 
 msgid "campaignBonus|Basic Diplomacy"
-msgstr "campaignBonus|Basis Diplomatie"
+msgstr "Basis Diplomatie"
 
 msgid "campaignBonus|Advanced Diplomacy"
-msgstr "campaignBonus|Geavanceerd Diplomatie"
+msgstr "Geavanceerd Diplomatie"
 
 msgid "campaignBonus|Expert Diplomacy"
-msgstr "campaignBonus|Expert Diplomatie"
+msgstr "Expert Diplomatie"
 
 msgid "campaignBonus|Basic Eagle Eye"
-msgstr "campaignBonus|Basis Adelaarsoog"
+msgstr "Basis Adelaarsoog"
 
 msgid "campaignBonus|Advanced Eagle Eye"
-msgstr "campaignBonus|Geavanceerd Adelaarsoog"
+msgstr "Geavanceerd Adelaarsoog"
 
 msgid "campaignBonus|Expert Eagle Eye"
-msgstr "campaignBonus|Expert Adelaarsoog"
+msgstr "Expert Adelaarsoog"
 
 msgid "campaignBonus|Basic Estates"
-msgstr "campaignBonus|Basis Landgoederen"
+msgstr "Basis Landgoederen"
 
 msgid "campaignBonus|Advanced Estates"
-msgstr "campaignBonus|Geavanceerd Landgoederen"
+msgstr "Geavanceerd Landgoederen"
 
 msgid "campaignBonus|Expert Estates"
-msgstr "campaignBonus|Expert Landgoederen"
+msgstr "Expert Landgoederen"
 
 msgid "campaignBonus|Basic Leadership"
-msgstr "campaignBonus|Basis Leiderschap"
+msgstr "Basis Leiderschap"
 
 msgid "campaignBonus|Advanced Leadership"
-msgstr "campaignBonus|Geavanceerd Leiderschap"
+msgstr "Geavanceerd Leiderschap"
 
 msgid "campaignBonus|Expert Leadership"
-msgstr "campaignBonus|Expert Leiderschap"
+msgstr "Expert Leiderschap"
 
 msgid "campaignBonus|Basic Logistics"
-msgstr "campaignBonus|Basis Logistiek"
+msgstr "Basis Logistiek"
 
 msgid "campaignBonus|Advanced Logistics"
-msgstr "campaignBonus|Geavanceerd Logistiek"
+msgstr "Geavanceerd Logistiek"
 
 msgid "campaignBonus|Expert Logistics"
-msgstr "campaignBonus|Expert Logistiek"
+msgstr "Expert Logistiek"
 
 msgid "campaignBonus|Basic Luck"
-msgstr "campaignBonus|Basis Geluk"
+msgstr "Basis Geluk"
 
 msgid "campaignBonus|Advanced Luck"
-msgstr "campaignBonus|Geavanceerd Geluk"
+msgstr "Geavanceerd Geluk"
 
 msgid "campaignBonus|Expert Luck"
-msgstr "campaignBonus|Expert Geluk"
+msgstr "Expert Geluk"
 
 msgid "campaignBonus|Basic Mysticism"
-msgstr "campaignBonus|Basis Mystiek"
+msgstr "Basis Mystiek"
 
 msgid "campaignBonus|Advanced Mysticism"
-msgstr "campaignBonus|Geavanceerd Mystiek"
+msgstr "Geavanceerd Mystiek"
 
 msgid "campaignBonus|Expert Mysticism"
-msgstr "campaignBonus|Expert Mystiek"
+msgstr "Expert Mystiek"
 
 msgid "campaignBonus|Basic Navigation"
-msgstr "campaignBonus|Basis Navigatie"
+msgstr "Basis Navigatie"
 
 msgid "campaignBonus|Advanced Navigation"
-msgstr "campaignBonus|Geavanceerd Navigatie"
+msgstr "Geavanceerd Navigatie"
 
 msgid "campaignBonus|Expert Navigation"
-msgstr "campaignBonus|Expert Navigatie"
+msgstr "Expert Navigatie"
 
 msgid "campaignBonus|Basic Necromancy"
-msgstr "campaignBonus|Basis Necromantie"
+msgstr "Basis Necromantie"
 
 msgid "campaignBonus|Advanced Necromancy"
-msgstr "campaignBonus|Geavanceerd Necromantie"
+msgstr "Geavanceerd Necromantie"
 
 msgid "campaignBonus|Expert Necromancy"
-msgstr "campaignBonus|Expert Necromantie"
+msgstr "Expert Necromantie"
 
 msgid "campaignBonus|Basic Pathfinding"
-msgstr "campaignBonus|Basis Padvinden"
+msgstr "Basis Padvinden"
 
 msgid "campaignBonus|Advanced Pathfinding"
-msgstr "campaignBonus|Geavanceerd Padvinden"
+msgstr "Geavanceerd Padvinden"
 
 msgid "campaignBonus|Expert Pathfinding"
-msgstr "campaignBonus|Expert Padvinden"
+msgstr "Expert Padvinden"
 
 msgid "campaignBonus|Basic Scouting"
-msgstr "campaignBonus|Basis Verkennen"
+msgstr "Basis Verkennen"
 
 msgid "campaignBonus|Advanced Scouting"
-msgstr "campaignBonus|Geavanceerd Verkennen"
+msgstr "Geavanceerd Verkennen"
 
 msgid "campaignBonus|Expert Scouting"
-msgstr "campaignBonus|Expert Verkennen"
+msgstr "Expert Verkennen"
 
 msgid "campaignBonus|Basic Wisdom"
-msgstr "campaignBonus|Basis Wijsheid"
+msgstr "Basis Wijsheid"
 
 msgid "campaignBonus|Advanced Wisdom"
-msgstr "campaignBonus|Geavanceerd Wijsheid"
+msgstr "Geavanceerd Wijsheid"
 
 msgid "campaignBonus|Expert Wisdom"
-msgstr "campaignBonus|Expert Wijsheid"
+msgstr "Expert Wijsheid"
 
 msgid ""
 "The main hero will have \"%{artifact}\" artifact at the start of the "
@@ -1947,7 +1947,7 @@ msgid "Descendants"
 msgstr "Afstammelingen"
 
 msgid "The %{building} produces %{monster}."
-msgstr "Het %{building} produceert %{monster}."
+msgstr "Een %{building} produceert %{monster}."
 
 msgid "Requires:"
 msgstr "Vereist:"
@@ -2304,7 +2304,7 @@ msgid "Fenced Meadow"
 msgstr "Weide"
 
 msgid "sorceress|Red Tower"
-msgstr "sorceress|Rode Toren"
+msgstr "Rode Toren"
 
 msgid "Dungeon"
 msgstr "Kerker"
@@ -2334,7 +2334,7 @@ msgid "Green Tower"
 msgstr "Groene Toren"
 
 msgid "warlock|Red Tower"
-msgstr "warlock|Rode toren"
+msgstr "Rode toren"
 
 msgid "Black Tower"
 msgstr "Zwarte Toren"
@@ -2927,7 +2927,7 @@ msgid "Save the current game."
 msgstr "Sla het huidig spel op."
 
 msgid "Quit"
-msgstr "Stop"
+msgstr "Stoppen"
 
 msgid "Quit out of Heroes of Might and Magic II."
 msgstr "Stop Heroes of Might and Magic II."
@@ -3037,7 +3037,7 @@ msgid "Fullscreen"
 msgstr "Volledig Scherm"
 
 msgid "window|Mode"
-msgstr "venster|Modus"
+msgstr "Modus"
 
 msgid "Windowed"
 msgstr "In venster"
@@ -3217,7 +3217,7 @@ msgid "already learned"
 msgstr "reeds geleerd"
 
 msgid "treeOfKnowledge|free"
-msgstr "treeOfKnowledge|vrij"
+msgstr "vrij"
 
 msgid "already claimed"
 msgstr "reeds geclaimed"
@@ -3406,10 +3406,10 @@ msgid "Castle/town placing"
 msgstr "Kasteel/dorp plaatsing"
 
 msgid "doubleLinedRace|Neutral"
-msgstr "doubleLinedRace|Neutraal"
+msgstr "Neutraal"
 
 msgid "race|Random"
-msgstr "race|Willekeurig"
+msgstr "Willekeurig"
 
 msgid "Click to start placing the selected castle/town."
 msgstr "Klik om geselecteerd kasteel/dorp te plaatsen."
@@ -3424,7 +3424,7 @@ msgid "%{color} %{race} %{townOrCastle}"
 msgstr "%{color} %{race} %{townOrCastle}"
 
 msgid "race|Neutral"
-msgstr "race|Neutraal"
+msgstr "Neutraal"
 
 msgid "You will place"
 msgstr "Je plaatst"
@@ -3637,7 +3637,7 @@ msgid "Battles"
 msgstr "Gevechten"
 
 msgid "autoBattle|Manual"
-msgstr "autoBattle|Manueel"
+msgstr "Manueel"
 
 msgid "Change the speed at which your heroes move on the main screen."
 msgstr "Verander de snelheid waarmee je helden zich verplaatsen."
@@ -3707,7 +3707,7 @@ msgid "Gold in Treasury:"
 msgstr "Goud in voorraad:"
 
 msgid "Wood & Ore:"
-msgstr "Hout & Erts"
+msgstr "Hout & Erts:"
 
 msgid "Gems, Cr, Slf & Mer:"
 msgstr "Edlst, Kr, Slf & Kwk:"
@@ -3737,7 +3737,7 @@ msgid "Best Monster:"
 msgstr "Beste Monster:"
 
 msgid "Map filename"
-msgstr "Kaart bestandsnaam:"
+msgstr "Kaart bestandsnaam"
 
 msgid ""
 "Are you sure you want to load a new map? (Any unsaved changes to the current "
@@ -3776,380 +3776,412 @@ msgid "Quit out of the map editor."
 msgstr "Verlaat de Kaartenbouwer."
 
 msgid "Objects cannot be placed outside the map."
-msgstr ""
+msgstr "Objecten kunnen niet buiten de kaart geplaatst worden."
 
 msgid "Monsters cannot be placed on water."
-msgstr ""
+msgstr "Monsters kunnen niet op water geplaatst worden."
 
 msgid "Choose a tile which does not contain any objects."
-msgstr ""
+msgstr "Kies een plaats zonder objecten."
 
 msgid "Treasures cannot be placed on water."
-msgstr ""
+msgstr "Schatten kunnen niet op water geplaatst worden."
 
 msgid "Heroes cannot be placed on water."
-msgstr ""
+msgstr "Helden kunnen niet op water geplaatst worden."
 
 msgid ""
 "A maximum of %{count} heroes of the same color can be placed on the map."
 msgstr ""
+"Maximaal %{count} helden van dezelfde kleur kunnen op de kaart geplaatst "
+"worden."
 
 msgid "Artifacts cannot be placed on water."
-msgstr ""
+msgstr "Artefacten kunnen niet op water worden geplaatst."
 
 msgid "Mountains cannot be placed on water."
-msgstr ""
+msgstr "Bergen kunnen niet op water geplaatst worden."
 
 msgid "Rocks cannot be placed on water."
-msgstr ""
+msgstr "Stenen kunnen niet op water geplaatst worden."
 
 msgid "Trees cannot be placed on water."
-msgstr ""
+msgstr "Bomen kunnen niet op water geplaatst worden."
 
 msgid "Ocean object must be placed on water."
-msgstr ""
+msgstr "Oceaanobjecten moeten op water geplaatst worden."
 
 msgid "Landscape objects cannot be placed on water."
-msgstr ""
+msgstr "Landschapsobjecten kunnen niet op water geplaatst worden."
 
 msgid "Towns cannot be placed on water."
-msgstr ""
+msgstr "Dorpen kunnen niet op water geplaatst worden."
 
 msgid "Mines cannot be placed on water."
-msgstr ""
+msgstr "Mijnen kunnen niet op water geplaatst worden."
 
 msgid "Dwellings cannot be placed on water."
-msgstr ""
+msgstr "Habitats kunnen niet op water geplaatst worden."
 
 msgid "Power-ups cannot be placed on water."
-msgstr ""
+msgstr "Power-ups kunnen niet op water geplaatst worden."
 
 msgid "Adventure objects cannot be placed on water."
-msgstr ""
+msgstr "Avontuurobjecten kunnen niet op water geplaatst worden."
 
 msgid "Used to place %{object}."
-msgstr ""
+msgstr "Gebruikt om %{object} te plaatsen."
 
-#, fuzzy
 msgid "Select object type"
-msgstr "Selecteer spreuk doelwit"
+msgstr "Selecteer objecttype"
 
 msgid ""
 "Click here to\n"
 "select a monster."
-msgstr ""
+msgstr "Klik hier om een monster te selecteren."
 
-#, fuzzy
 msgid ""
 "Click here to\n"
 "select another monster."
-msgstr "Selecteer een andere held."
+msgstr ""
+"Klik hier om \n"
+"een andere held te kiezen."
 
 msgid ""
 "Cell\n"
 "Details"
-msgstr ""
+msgstr "Celdetails"
 
 msgid "Roads"
-msgstr ""
+msgstr "Wegen"
 
 msgid "Streams"
-msgstr ""
+msgstr "Stromen"
 
 msgid "Erase"
-msgstr ""
+msgstr "Wissen"
 
 msgid "Mountains"
-msgstr ""
+msgstr "Bergen"
 
 msgid "Rocks"
-msgstr ""
+msgstr "Stenen"
 
 msgid "Trees"
-msgstr ""
+msgstr "Bomen"
 
 msgid "Water Objects"
-msgstr ""
+msgstr "Waterobjecten"
 
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Andere"
 
 msgid "Artifacts"
-msgstr ""
+msgstr "Artefacten"
 
 msgid "Dwellings"
-msgstr ""
+msgstr "Habitats"
 
 msgid "Mines"
-msgstr ""
+msgstr "Mijnen"
 
-#, fuzzy
 msgid "Power-ups"
-msgstr "Einde van de macht"
+msgstr "Power-ups"
 
 msgid "Treasures"
-msgstr ""
+msgstr "Schatten"
 
 msgid "Towns"
-msgstr ""
+msgstr "Dorpen"
 
 msgid "Heroes"
-msgstr ""
+msgstr "Helden"
 
 msgid "editorErasure|Terrain"
-msgstr ""
+msgstr "Terrein"
 
 msgid "editorErasure|Castles"
-msgstr ""
+msgstr "Kastelen"
 
 msgid "editorErasure|Monsters"
-msgstr ""
+msgstr "Monsters"
 
 msgid "editorErasure|Heroes"
-msgstr ""
+msgstr "Helden"
 
 msgid "editorErasure|Artifacts"
-msgstr ""
+msgstr "Artefacten"
 
 msgid "editorErasure|Roads"
-msgstr ""
+msgstr "Wegen"
 
 msgid "editorErasure|Streams"
-msgstr ""
+msgstr "Stromen"
 
 msgid "editorErasure|Treasures"
-msgstr ""
+msgstr "Schatten"
 
 msgid ""
 "Draws terrain in\n"
 "%{size} by %{size} square increments."
 msgstr ""
+"Tekent terrein in \n"
+"%{size} op %{size} vierkanten."
 
 msgid ""
 "Erases objects in\n"
 "%{size} by %{size} square increments."
 msgstr ""
+"Wist terrein in \n"
+"%{size} op %{size} vierkanten."
 
 msgid "Small Brush"
-msgstr ""
+msgstr "Kleine Struik"
 
 msgid "Medium Brush"
-msgstr ""
+msgstr "Medium Struik"
 
 msgid "Large Brush"
-msgstr ""
+msgstr "Grote Struik"
 
 msgid "Area Fill"
-msgstr ""
+msgstr "Oppervlakte vullen"
 
 msgid "Used to click and drag for filling in large areas."
-msgstr ""
+msgstr "Gebruikt om grote oppervlakten te vullen."
 
 msgid "Clear Area"
-msgstr ""
+msgstr "Vrijmaken"
 
 msgid "Used to click and drag for clearing large areas."
-msgstr ""
+msgstr "Gebruikt om grote oppervlakten vrij te maken."
 
 msgid ""
 "Costs %{rate} times normal movement for all heroes. (Pathfinding reduces or "
 "eliminates the penalty.)"
 msgstr ""
+"Kost %{rate} keer de normale stappen voor alle helden (Spoorzoeken "
+"vermindert dit nadeel)"
 
 msgid "Traversable only by boat."
-msgstr ""
+msgstr "Over te steken per boot."
 
 msgid "No special modifiers."
-msgstr ""
+msgstr "Geen speciale aanpassingen."
 
 msgid "Toggle the erasure of %{type} objects."
-msgstr ""
+msgstr "Schakel de het wissen van %{type} objecten om."
 
 msgid ""
 "Objects of this type will be deleted with the Erase tool. Left-click here to "
 "deselect this type. Press and hold this button to deselect all other object "
 "types."
 msgstr ""
+"Objecten van dit type zullen gewist worden met het Wisgereedschap. Klik hier "
+"om het dit type niet langer te selecteren. Klik en hou vast om alle andere "
+"objecttypes ook niet langer te selecteren."
 
 msgid ""
 "Objects of this type will NOT be deleted with the Erase tool. Left-click "
 "here to select this type. Press and hold this button to select all other "
 "object types."
 msgstr ""
+"Objecten van dit type zullen NIET gewist worden met het Wisgereedschap. Klik "
+"hier om het dit type te selecteren. Klik en hou vast om alle andere "
+"objecttypes ook te selecteren."
 
 msgid "Terrain Mode"
-msgstr ""
+msgstr "Terreinmodus"
 
 msgid "Used to draw the underlying grass, dirt, water, etc. on the map."
-msgstr ""
+msgstr "Teken het gras, stof, water enz op de kaart."
 
 msgid "Landscape Objects Mode"
-msgstr ""
+msgstr "Landschap Object Modus"
 
 msgid ""
 "Used to place landscape objects (mountains, rocks, trees, etc.) on the map."
 msgstr ""
+"Gebruikt om landschapobjecten te plaatsen (bergen, stenen, bomen, enz) op de "
+"kaart."
 
 msgid "Detail Mode"
-msgstr ""
+msgstr "Detailmodus"
 
 msgid "Used for special editing of monsters, heroes and towns."
-msgstr ""
+msgstr "Gebruikt voor defailaanpassingen van monsters, helden en dorpen."
 
 msgid "Adventure Objects Mode"
-msgstr ""
+msgstr "Avontuurobject Modus"
 
 msgid ""
 "Used to place adventure objects (artifacts, dwellings, mines, treasures, "
 "etc.) on the map."
 msgstr ""
+"Gebruikt om avontuurobjecten (artefacten, habitats, mijnen, schatten, enz) "
+"op de kaart te plaatsen."
 
 msgid "Kingdom Objects Mode"
-msgstr ""
+msgstr "Koninkrijkobject Modus"
 
 msgid "Used to place kingdom objects (towns, castles and heroes) on the map."
 msgstr ""
+"Gebruikt om koninkrijkobjecten (dorpen, kastelen en helden) te plaatsen op "
+"de kaart."
 
-#, fuzzy
 msgid "Monsters Mode"
-msgstr "Monsters"
+msgstr "Monstermodus"
 
 msgid "Used to place monsters on the map."
-msgstr ""
+msgstr "Gebruikt om monsters op de kaart te plaatsen."
 
 msgid "Allows you to draw streams by clicking and dragging."
-msgstr ""
+msgstr "Laat je toe stromen te tekenen door te slepen."
 
 msgid "Stream Mode"
-msgstr ""
+msgstr "Stroommodus"
 
 msgid "Allows you to draw roads by clicking and dragging."
-msgstr ""
+msgstr "Laat je toe wegen te tekenen door te slepen."
 
 msgid "Road Mode"
-msgstr ""
+msgstr "Wegmodus"
 
 msgid "Erase Mode"
-msgstr ""
+msgstr "Wismodus"
 
 msgid "Used to erase objects from the map."
-msgstr ""
+msgstr "Gebruikt om objecten van de kaart te wissen."
 
 msgid "Change between zoom and normal view."
-msgstr ""
+msgstr "Wissel tussen zoom en gewoon zicht."
 
 msgid "Magnify"
-msgstr ""
+msgstr "Vergroten"
 
 msgid "Undo"
-msgstr ""
+msgstr "Ongedaan maken"
 
 msgid "Undo your last action."
-msgstr ""
+msgstr "Je laatste actie ongedaan maken."
 
 msgid "Create a new map either from scratch or using the random map generator."
-msgstr ""
+msgstr "Maak een nieuwe kaart, ofwel van nul af aan ofwel met de generator."
 
 msgid "Edit map title, description, and other general information."
-msgstr ""
+msgstr "Pas de kaartnaam, -omschrijving en andere algemene info aan."
 
 msgid "Specifications"
-msgstr ""
+msgstr "Details"
 
 msgid "File Options"
-msgstr ""
+msgstr "Bestandsopties"
 
 msgid ""
 "Open the file options menu, where you can save or load maps, or quit out of "
 "the editor."
 msgstr ""
+"Open de bestandsopties, waar je kaarten kan opslaan of laden, of de editor "
+"stoppen."
 
 msgid "View the editor system options, which let you customize the editor."
-msgstr ""
+msgstr "Bekijk de editor systeemopties, om hem te personaliseren."
 
 msgid "Create a map that is %{size} squares wide and %{size} squares high."
-msgstr ""
+msgstr "Maak een kaart die %{size} vierkanten breed is en %{size} lang."
 
 msgid "Cancel back to the New Map menu."
-msgstr ""
+msgstr "Annuleer en keer terug naar het Nieuwe Kaart menu."
 
 msgid "Cancel back to the main menu."
-msgstr ""
+msgstr "Annuleer en keer terug naar het hoofdmenu."
 
 msgid "From Scratch"
-msgstr ""
+msgstr "Van Nul"
 
 msgid "Start from scratch with a blank map."
-msgstr ""
+msgstr "Start van nul met een lege kaart."
 
 msgid "Create a randomly generated map."
-msgstr ""
+msgstr "Maak een willekeurig gegenereerde kaart."
 
 msgid "Random"
-msgstr ""
+msgstr "Willekeurig"
 
 msgid "Cancel back to the Map Editor main menu."
-msgstr ""
+msgstr "Annuleer en keer terug naar hoofdmenu van de Kaart Editor."
 
 msgid "No maps available!"
-msgstr ""
+msgstr "Geen kaarten beschikbaar!"
 
-#, fuzzy
 msgid "Warning"
-msgstr "Waarschuuwing"
+msgstr "Waarschuwing"
 
 msgid "difficulty|Easy"
-msgstr ""
+msgstr "Simpel"
 
 msgid "difficulty|Normal"
-msgstr ""
+msgstr "Gewoon"
 
 msgid "difficulty|Hard"
-msgstr ""
+msgstr "Moeilijk"
 
 msgid "difficulty|Expert"
-msgstr ""
+msgstr "Expert"
 
 msgid "difficulty|Impossible"
-msgstr ""
+msgstr "Onmogelijk"
 
 msgid "and more..."
-msgstr ""
+msgstr "en meer..."
 
 msgid "Easy"
-msgstr ""
+msgstr "Simpel"
 
 msgid "Hard"
-msgstr ""
+msgstr "Moeilijk"
 
 msgid "Campaign Difficulty"
-msgstr ""
+msgstr "Campagne Moeilijkheidsgraad"
 
 msgid ""
 "Choose this difficulty if you want to prefer game story over challenge. AI "
 "is weaker in comparison with normal difficulty."
 msgstr ""
+"Kies deze moeilijkheidsgraad als je het verhaal de voorkeur geeft boven een "
+"uitdaging. De AI is zwakker dan bij gewone moeilijkheidgraad."
 
 msgid ""
 "Choose this difficulty to enjoy the campaign as per the original design."
 msgstr ""
+"Kies deze moeilijkheidsgraad indien je de campagne wil ervaren zoals "
+"origineel ontworpen."
 
 msgid ""
 "Choose this difficulty if you want challenge. AI is stronger in comparison "
 "with normal difficulty."
 msgstr ""
+"Kies deze moeilijkheidsgraad indien je een uitdaging wilt. De AI is sterker "
+"in vergelijking met gewone moeilijkheidsgraad."
 
 msgid ""
 "Congratulations!\n"
 "\n"
 "Days: %{days}\n"
 msgstr ""
+"Gefeliciteerd!\n"
+"\n"
+"Dagen:  %{days}\n"
 
 msgid ""
 "\n"
 "Difficulty: %{difficulty}\n"
 "\n"
 msgstr ""
+"\n"
+"Moeilijkheidsgraad: %{difficulty}\n"
+"\n"
+"\v\n"
 
 msgid ""
 "Score: %{score}\n"
@@ -4157,221 +4189,230 @@ msgid ""
 "Rating:\n"
 "%{rating}"
 msgstr ""
+"Score: %{score}\n"
+"\n"
+"Rank:\n"
+"%{rating}"
 
 msgid "Start the selected scenario."
-msgstr ""
+msgstr "Start het geselecteerde scenario."
 
 msgid "View Intro"
-msgstr ""
+msgstr "Bekijk Intro"
 
 msgid "View Intro videos for the current state of the campaign."
-msgstr ""
+msgstr "Bekijk Introfilmpjes voor de huidige status van de campagne."
 
 msgid ""
 "Select the campaign difficulty. This can be lowered at any point during the "
 "campaign."
 msgstr ""
+"Selecteer de campagnemoeilijkheidsgraad. Deze kan verlaagd worden op eender "
+"welk moment."
 
 msgid "Restart the current scenario."
-msgstr ""
+msgstr "Herstart het scenario."
 
 msgid "Difficulty"
-msgstr ""
+msgstr "Moeilijkheidsgraad"
 
 msgid ""
 "You have changed to a lower difficulty for the campaign. You will not be "
 "able to revert this after this point. The high score will be calculated "
 "based solely on the new difficulty. Do you want to proceed?"
 msgstr ""
+"Je hebt de campagnemoeilijkheidsgraad verlaagd. Dit kan hierna niet meer "
+"veranderd worden. Je score wordt berekend op de nieuwe moeilijkheidsgraag. "
+"Wil je verder gaan?"
 
 msgid "Are you sure you want to restart this scenario?"
-msgstr ""
+msgstr "Ben je zeker dat je het scenario wil herstarten?"
 
 msgid "Campaign Scenario loading failure"
-msgstr ""
+msgstr "Campagnescenario laden mislukt"
 
 msgid "Please make sure that campaign files are correct and present."
-msgstr ""
+msgstr "Kijk na dat de campagne bestanden niet beschadigd zijn."
 
 msgid "Days spent"
-msgstr ""
+msgstr "Dagen gespendeerd"
 
 msgid "The number of days spent on this campaign."
-msgstr ""
+msgstr "Aantal dagen gespendeerd op deze campagne."
 
 msgid "Project Coordination and Core Development"
-msgstr ""
+msgstr "Project Coordinatie en Hoofdontwikkeling"
 
 msgid "Development"
-msgstr ""
+msgstr "Ontwikkelaars"
 
 msgid "Visit us at "
-msgstr ""
+msgstr "Bezoek ons op "
 
 msgid "QA and Support"
-msgstr ""
+msgstr "QA en ondersteuning"
 
 msgid "Dev and Support"
-msgstr ""
+msgstr "Ontwikkeling en Ondersteuning"
 
 msgid "Special Thanks to"
-msgstr ""
+msgstr "Een speciaal bedankje aan"
 
 msgid "and many other contributors!"
-msgstr ""
+msgstr "en vele andere bijdragers!"
 
 msgid "and many-many other supporters!"
-msgstr ""
+msgstr "en nog veel meer helpers!"
 
 msgid "Support us at"
-msgstr ""
+msgstr "Ondersteun ons op"
 
 msgid "local-donation-platform|https://www.patreon.com/fheroes2"
-msgstr ""
+msgstr "https://www.patreon.com/fheroes2"
 
 msgid "Connect with us at"
-msgstr ""
+msgstr "Connecteer met ons op"
 
 msgid "local-social-network|https://www.facebook.com/groups/fheroes2"
-msgstr ""
+msgstr "https://www.facebook.com/groups/fheroes2"
 
 msgid "Need help with the game?"
-msgstr ""
+msgstr "Hulp nodig met het spel?"
 
 msgid "Original project before 0.7"
-msgstr ""
+msgstr "Origineel project voor 0.7"
 
 msgid "Heroes of Might and Magic II: The Succession Wars team"
-msgstr ""
+msgstr "Heroes of Might and Magic II: The Succession Wars team"
 
 msgid "Designed and Directed"
-msgstr ""
+msgstr "Ontworpen en Geregisseerd"
 
 msgid "Programming and Design"
-msgstr ""
+msgstr "Programmeren en Ontwerp"
 
 msgid "Executive Producer"
-msgstr ""
+msgstr "Uitvoerend Producer"
 
 msgid "Producer"
-msgstr ""
+msgstr "Producer"
 
 msgid "Additional Design"
-msgstr ""
+msgstr "Bijkomend Ontwerp"
 
 msgid "Additional Programming"
-msgstr ""
+msgstr "Bijkomende Programmering"
 
 msgid "Musical Production"
-msgstr ""
+msgstr "Muzikale Productie"
 
 msgid "Music and Sound Design"
-msgstr ""
+msgstr "Muziek- en Geluidsontwerp"
 
 msgid "Vocalists"
-msgstr ""
+msgstr "Stemacteurs"
 
 msgid "Art Director"
-msgstr ""
+msgstr "Grafisch Directeur"
 
 msgid "Assistant Art Director"
-msgstr ""
+msgstr "Assistent Grafisch Directeur"
 
 msgid "Artists"
-msgstr ""
+msgstr "Artiesten"
 
 msgid "QA Manager"
-msgstr ""
+msgstr "QA Manager"
 
 msgid "QA"
-msgstr ""
+msgstr "QA"
 
 msgid "Writing"
-msgstr ""
+msgstr "Schrijvers"
 
 msgid "Manual and Helpfile"
-msgstr ""
+msgstr "Handleiding en Helpbestand"
 
 msgid "Scenarios"
-msgstr ""
+msgstr "Scenario's"
 
 msgid "Heroes of Might and Magic II: The Price of Loyalty team"
-msgstr ""
+msgstr "Heroes of Might and Magic II: The Price of Loyalty team"
 
 msgid "Design Lead"
-msgstr ""
+msgstr "Hoofdontwerper"
 
 msgid "Designers"
-msgstr ""
+msgstr "Ontwerpers"
 
 msgid "Programming Lead"
-msgstr ""
+msgstr "Hoofdprogrammeur"
 
 msgid "Art Lead"
-msgstr ""
+msgstr "Hoofdgraficus"
 
 msgid "Playtesters"
-msgstr ""
+msgstr "Speeltesters"
 
 msgid "Designer"
-msgstr ""
+msgstr "Ontwerper"
 
 msgid "Producers"
-msgstr ""
+msgstr "Producers"
 
 msgid "QA Managers"
-msgstr ""
+msgstr "QA Managers"
 
 msgid "Sound Design"
-msgstr ""
+msgstr "Geluidsontwerp"
 
 msgid "Town Themes"
-msgstr ""
+msgstr "Dorpsmelodieën"
 
 msgid "Alto Sax"
-msgstr ""
+msgstr "Altsaxofoon"
 
 msgid "Harpsichord and Piano"
-msgstr ""
+msgstr "Klavecimbel en Piano"
 
 msgid "Basso Vocal"
-msgstr ""
+msgstr "Basstem"
 
 msgid "Soprano Vocal"
-msgstr ""
+msgstr "Sopraan"
 
 msgid "Recorded at %{recordingStudio}"
-msgstr ""
+msgstr "Opgenomen bij %{recordingStudio}"
 
 msgid "credits|Manual"
-msgstr ""
+msgstr "Handleiding"
 
 msgid "German Consultant"
-msgstr ""
+msgstr "Duitse Consultant"
 
 msgid "Map Designers"
-msgstr ""
+msgstr "Kaart Ontwerpers"
 
 msgid "Package Design"
-msgstr ""
+msgstr "Verpakkingsontwerp"
 
 msgid "Your Name"
-msgstr ""
+msgstr "Jouw Naam"
 
 msgid "Unknown Hero"
-msgstr ""
+msgstr "Onbekende held"
 
 msgid "Standard"
-msgstr ""
+msgstr "Standaard"
 
 msgid "View High Scores for Standard Maps."
-msgstr ""
+msgstr "Bekijk rangschikking voor Gewone Kaarten."
 
 msgid "Campaign"
-msgstr ""
+msgstr "Campagne"
 
 msgid "View High Scores for Campaigns."
-msgstr ""
+msgstr "Bekijk rangschikking voor Campagnes."
 
 msgid "hotkey|default okay event"
 msgstr ""
@@ -4469,13 +4510,11 @@ msgstr ""
 msgid "hotkey|new random map"
 msgstr ""
 
-#, fuzzy
 msgid "hotkey|undo last action"
-msgstr "Systeem instellingen aanpassen"
+msgstr ""
 
-#, fuzzy
 msgid "hotkey|redo last action"
-msgstr "Systeem instellingen aanpassen"
+msgstr ""
 
 msgid "hotkey|roland campaign"
 msgstr ""
@@ -4483,36 +4522,35 @@ msgstr ""
 msgid "hotkey|archibald campaign"
 msgstr ""
 
-#, fuzzy
 msgid "hotkey|the price of loyalty campaign"
-msgstr "De Prijs van Loyaliteit"
+msgstr "De Prijs van Loyaliteit campagne"
 
 msgid "hotkey|voyage home campaign"
-msgstr ""
+msgstr "Reis Huiswaarts campagne"
 
 msgid "hotkey|wizard's isle campaign"
-msgstr ""
+msgstr "Tovenaarseiland campagne"
 
 msgid "hotkey|descendants campaign"
-msgstr ""
+msgstr "Afstammelingen campagne"
 
 msgid "hotkey|select first campaign bonus"
-msgstr ""
+msgstr "Selecteer eerste campagnebonus"
 
 msgid "hotkey|select second campaign bonus"
-msgstr ""
+msgstr "Selecteer tweede campagnebonus"
 
 msgid "hotkey|select third campaign bonus"
-msgstr ""
+msgstr "Selecteer derde campagnebonus"
 
 msgid "hotkey|view campaign intro"
-msgstr ""
+msgstr "bekijk campagneintro"
 
 msgid "hotkey|select campaign difficulty"
-msgstr ""
+msgstr "selecteer campagne moeilijkheidsgraad"
 
 msgid "hotkey|restart campaign scenario"
-msgstr ""
+msgstr "herstart campagne scenario"
 
 msgid "hotkey|world map left"
 msgstr ""
@@ -4586,9 +4624,8 @@ msgstr ""
 msgid "hotkey|open focus"
 msgstr ""
 
-#, fuzzy
 msgid "hotkey|system options"
-msgstr "Systeem instellingen aanpassen"
+msgstr "Systeem instellingen"
 
 msgid "hotkey|scroll left"
 msgstr ""
@@ -4629,10 +4666,8 @@ msgstr ""
 msgid "hotkey|toggle battle auto mode"
 msgstr ""
 
-#, fuzzy
 msgid "hotkey|finish the battle in auto mode"
-msgstr ""
-"Weet je zeker dat je het gevecht in de automatische modus wilt beëindigen?"
+msgstr "Het gevecht automatisch afwerken?"
 
 msgid "hotkey|battle options"
 msgstr ""
@@ -4700,18 +4735,16 @@ msgstr ""
 msgid "hotkey|dismiss hero or troop"
 msgstr ""
 
-#, fuzzy
 msgid ""
 "Do you want to regain control from AI? The effect will take place only on "
 "the next turn."
 msgstr ""
-"Wil je controle terug nemen van de AI? Het effect neemt alleen plaats\n"
-"de volgende ronde."
+"Wil je controle terug nemen van de AI? Dit start vanaf de volgende ronde."
 
 msgid ""
 "Do you want to transfer control from you to the AI? The effect will take "
 "place only on the next turn."
-msgstr ""
+msgstr "Wil je controle afgeven aan de AI? Dit start vanaf de volgende ronde."
 
 msgid "Default Actions"
 msgstr ""
@@ -4725,11 +4758,9 @@ msgstr ""
 msgid "World Map"
 msgstr ""
 
-#, fuzzy
 msgid "Battle Screen"
 msgstr "Held Scherm"
 
-#, fuzzy
 msgid "Town Screen"
 msgstr "Held Scherm"
 
@@ -4739,9 +4770,8 @@ msgstr ""
 msgid "Editor"
 msgstr ""
 
-#, fuzzy
 msgid "The save file is corrupted."
-msgstr "Het spiegelbeeld wordt gecreëerd."
+msgstr "Het opgeslagen spel is corrupt."
 
 msgid "Unsupported save format: "
 msgstr ""
@@ -4997,9 +5027,8 @@ msgid ""
 "All is lost."
 msgstr ""
 
-#, fuzzy
 msgid "Defeat!"
-msgstr " verslagen"
+msgstr "Verslagen!"
 
 msgid ""
 "Base score: %{score}\n"
@@ -5057,7 +5086,7 @@ msgid "Lose the town '%{name}'."
 msgstr ""
 
 msgid "Lose the hero: %{name}."
-msgstr ""
+msgstr "rqting"
 
 msgid "Fail to win by the end of month %{month}, week %{week}, day %{day}."
 msgstr ""
@@ -5081,7 +5110,7 @@ msgid "Class:"
 msgstr ""
 
 msgid "Rating %{rating}%"
-msgstr ""
+msgstr "Uitdaging %{rating}%"
 
 msgid "Click here to select which scenario to play."
 msgstr ""
@@ -5237,9 +5266,8 @@ msgstr ""
 msgid "Select the next Hero."
 msgstr ""
 
-#, fuzzy
 msgid "Hero Movement"
-msgstr "Schaduw Beweging"
+msgstr "Held Bewegingen"
 
 msgid ""
 "Start the Hero's movement along the current path or re-visit the object "
@@ -5280,7 +5308,7 @@ msgid ""
 msgstr ""
 
 msgid "Are you sure you want to quit?"
-msgstr ""
+msgstr "Wil je echt stoppen?"
 
 msgid "Are you sure you want to restart? (Your current game will be lost.)"
 msgstr ""
@@ -5335,6 +5363,8 @@ msgid ""
 "You find a small\n"
 "quantity of %{resource}."
 msgstr ""
+"Je vond een kleine\n"
+"hoeveelheid %{resource}."
 
 msgid "Status Window"
 msgstr ""
@@ -5683,6 +5713,8 @@ msgstr ""
 
 msgid "Ransacking an enemy camp, you discover a hidden cache of treasures."
 msgstr ""
+"Terwijl je een vijandig kamp uitkamt vind je een verborgen opslagplaats voor "
+"schatten."
 
 msgid ""
 "The keeper of the mill announces:\n"
@@ -5733,7 +5765,7 @@ msgid "You come upon the remains of an unfortunate adventurer."
 msgstr ""
 
 msgid "Treasure"
-msgstr ""
+msgstr "Schatkist"
 
 msgid "Searching through the tattered clothing, you find the %{artifact}."
 msgstr ""
@@ -5750,7 +5782,7 @@ msgid "Unfortunately, others have found it first, and the wagon is empty."
 msgstr ""
 
 msgid "Searching inside, you find the %{artifact}."
-msgstr ""
+msgstr "Vanbinnen vond je %{artifact}."
 
 msgid "Inside, you find some of the wagon's cargo still intact."
 msgstr ""
@@ -6112,16 +6144,23 @@ msgid ""
 "the gold or distribute the gold to the peasants for experience. Do you wish "
 "to keep the gold?"
 msgstr ""
+"Na de omgeving uit te pluizen, vind je een verborgen stockage vol schatten. "
+"Je kan het geld meenemen of verdelen onder de boeren voor ervaring. Hou je "
+"het goud?"
 
 msgid ""
 "After scouring the area, you fall upon a hidden chest, containing the "
 "%{gold} gold pieces."
 msgstr ""
+"Na de omgeving uit te pluizen, vind je een verborgen kist gevuld met %{gold} "
+"goudstukken."
 
 msgid ""
 "After scouring the area, you fall upon a hidden chest, containing the "
 "ancient artifact %{art}."
 msgstr ""
+"Na de omgeving uit te pluizen, vind je een verborgen kist met daarin het "
+"oude artefact %{art}."
 
 msgid ""
 "You stumble upon a dented and tarnished lamp lodged deep in the earth. Do "
@@ -6183,6 +6222,8 @@ msgid ""
 "A group of %{monster} with a desire for greater glory wish to join you. Do "
 "you accept?"
 msgstr ""
+"Een groep %{monster} met een verlangen naar meer roem wil zich bij je "
+"aansluiten. Accepteer je?"
 
 msgid "As you approach the dwelling, you notice that there is no one here."
 msgstr ""
@@ -6742,7 +6783,7 @@ msgid ""
 msgstr ""
 
 msgid "%{name} the %{race} (Level %{level})"
-msgstr ""
+msgstr "%{name} de %{race} (Niveau %{level})"
 
 msgid ""
 "'Spread' combat formation spreads the hero's units from the top to the "
@@ -7152,78 +7193,80 @@ msgid ""
 msgstr ""
 
 msgid "Blue"
-msgstr ""
+msgstr "Blauw"
 
 msgid "Green"
-msgstr ""
+msgstr "Groen"
 
 msgid "Red"
-msgstr ""
+msgstr "Rood"
 
 msgid "Yellow"
-msgstr ""
+msgstr "Geel"
 
 msgid "Orange"
-msgstr ""
+msgstr "Oranje"
 
 msgid "Purple"
-msgstr ""
+msgstr "Paars"
 
 msgid "barrier|Aqua"
-msgstr ""
+msgstr "Lichtblauw"
 
 msgid "barrier|Blue"
-msgstr ""
+msgstr "Blauw"
 
 msgid "barrier|Brown"
-msgstr ""
+msgstr "Bruin"
 
 msgid "barrier|Gold"
-msgstr ""
+msgstr "Goud"
 
 msgid "barrier|Green"
-msgstr ""
+msgstr "Groen"
 
 msgid "barrier|Orange"
-msgstr ""
+msgstr "Oranje"
 
 msgid "barrier|Purple"
-msgstr ""
+msgstr "Paars"
 
 msgid "barrier|Red"
-msgstr ""
+msgstr "Rood"
 
 msgid "tent|Aqua"
-msgstr ""
+msgstr "Lichtblauw"
 
 msgid "tent|Blue"
-msgstr ""
+msgstr "Blauw"
 
 msgid "tent|Brown"
-msgstr ""
+msgstr "Bruin"
 
 msgid "tent|Gold"
-msgstr ""
+msgstr "Goud"
 
 msgid "tent|Green"
-msgstr ""
+msgstr "Groen"
 
 msgid "tent|Orange"
-msgstr ""
+msgstr "Oranje"
 
 msgid "tent|Purple"
-msgstr ""
+msgstr "Paars"
 
 msgid "tent|Red"
-msgstr ""
+msgstr "Rood"
 
 msgid "Experience"
-msgstr ""
+msgstr "Ervaring"
 
 msgid ""
 "Experience allows your heroes to go up levels, increasing their primary and "
 "secondary skills."
 msgstr ""
+"Ervaring laat je helden stijgen in niveau, en verbetert hun primaire en "
+"secundaire vaardigheden."
 
 msgid "Hero/Stats"
 msgstr ""
@@ -7238,7 +7281,7 @@ msgid "Garrison"
 msgstr ""
 
 msgid "Gold Per Day:"
-msgstr ""
+msgstr "Goud per dqg:"
 
 msgid "View Heroes."
 msgstr ""
@@ -7319,51 +7362,61 @@ msgid "Good morale may give the hero's units extra attacks in combat."
 msgstr ""
 
 msgid "Knight"
-msgstr ""
+msgstr "Ridder"
 
 msgid "Barbarian"
-msgstr ""
+msgstr "Barbaar"
 
 msgid "Sorceress"
-msgstr ""
+msgstr "Toverheks"
 
 msgid "Warlock"
-msgstr ""
+msgstr "Heksenmeester"
 
 msgid "Wizard"
-msgstr ""
+msgstr "Tovenaar"
 
 msgid "Necromancer"
-msgstr ""
+msgstr "Necromancer"
 
 msgid "Multi"
-msgstr ""
+msgstr "Multi"
 
 msgid "doubleLined|Knight"
-msgstr ""
+msgstr "Ridder"
 
 msgid "doubleLined|Barbarian"
-msgstr ""
+msgstr "Barbaar"
 
 msgid "doubleLined|Sorceress"
 msgstr ""
+"Tover-\n"
+"heks"
 
 msgid "doubleLined|Warlock"
 msgstr ""
+"Heksen-\n"
+"meester"
 
 msgid "doubleLined|Wizard"
 msgstr ""
+"Tove-\n"
+"naar"
 
 msgid ""
 "doubleLined|Necro-\n"
 "mancer"
 msgstr ""
+"Necro-\n"
+"mancer"
 
 msgid "doubleLinedRace|Multi"
-msgstr ""
+msgstr "Multi"
 
 msgid "doubleLinedRace|Random"
 msgstr ""
+"Wille-\n"
+"keurig"
 
 msgid "speed|Standing"
 msgstr ""
@@ -7516,22 +7569,22 @@ msgid "maps|Custom Size"
 msgstr ""
 
 msgid "Ore Mine"
-msgstr ""
+msgstr "Ertsmijn"
 
 msgid "Sulfur Mine"
-msgstr ""
+msgstr "Solfermijn"
 
 msgid "Crystal Mine"
-msgstr ""
+msgstr "Kristalmijn"
 
 msgid "Gems Mine"
-msgstr ""
+msgstr "Edelstenenmijn"
 
 msgid "Gold Mine"
-msgstr ""
+msgstr "Goudmijn"
 
 msgid "Mine"
-msgstr ""
+msgstr "Mijn"
 
 msgid "Burma shave."
 msgstr ""
@@ -9596,25 +9649,25 @@ msgid "spellBonus|selected by user"
 msgstr ""
 
 msgid "Wood"
-msgstr ""
+msgstr "Hout"
 
 msgid "Mercury"
-msgstr ""
+msgstr "Kwik"
 
 msgid "Ore"
-msgstr ""
+msgstr "Erts"
 
 msgid "Sulfur"
-msgstr ""
+msgstr "Solfer"
 
 msgid "Crystal"
-msgstr ""
+msgstr "Kristal"
 
 msgid "Gems"
-msgstr ""
+msgstr "Edelstenen"
 
 msgid "Gold"
-msgstr ""
+msgstr "Goud"
 
 msgid ""
 "There are seven resources in Heroes 2, used to build and improves castles, "
