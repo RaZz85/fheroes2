@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: fheroes2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-03 03:27+0000\n"
-"PO-Revision-Date: 2024-02-22 20:33+0100\n"
+"PO-Revision-Date: 2024-02-25 17:11+0100\n"
 "Last-Translator: fheroes2 team <fhomm2@gmail.com>\n"
 "Language-Team: Dutch <nl@li.org>\n"
 "Language: nl\n"
@@ -4415,76 +4415,76 @@ msgid "View High Scores for Campaigns."
 msgstr "Bekijk rangschikking voor Campagnes."
 
 msgid "hotkey|default okay event"
-msgstr ""
+msgstr "standaard okay event"
 
 msgid "hotkey|default cancel event"
-msgstr ""
+msgstr "default annuleer event"
 
 msgid "hotkey|default left"
-msgstr ""
+msgstr "default links"
 
 msgid "hotkey|default right"
-msgstr ""
+msgstr "default rechts"
 
 msgid "hotkey|default up"
-msgstr ""
+msgstr "default omhoog"
 
 msgid "hotkey|default down"
-msgstr ""
+msgstr "default okay omlaag"
 
 msgid "hotkey|toggle fullscreen"
-msgstr ""
+msgstr "fullscreen"
 
 msgid "hotkey|toggle text support mode"
-msgstr ""
+msgstr "text support mode"
 
 msgid "hotkey|new game"
-msgstr ""
+msgstr "nieuw spel"
 
 msgid "hotkey|load game"
-msgstr ""
+msgstr "spel laden"
 
 msgid "hotkey|highscores"
-msgstr ""
+msgstr "topscores"
 
 msgid "hotkey|credits"
-msgstr ""
+msgstr "credits"
 
 msgid "hotkey|standard game"
-msgstr ""
+msgstr "standaardspel"
 
 msgid "hotkey|campaign game"
-msgstr ""
+msgstr "campagnespel"
 
 msgid "hotkey|multi-player game"
-msgstr ""
+msgstr "multi-player game"
 
 msgid "hotkey|settings"
-msgstr ""
+msgstr "instellen"
 
 msgid "hotkey|quit"
-msgstr ""
+msgstr "stoppen"
 
 msgid "hotkey|select map"
-msgstr ""
+msgstr "map selecteren"
 
 msgid "hotkey|select small map size"
-msgstr ""
+msgstr "selecteer kleine mapgrootte"
 
 msgid "hotkey|select medium map size"
-msgstr ""
+msgstr "selecteer medium mapgrootte"
 
 msgid "hotkey|select large map size"
-msgstr ""
+msgstr "selecteer grote mapgrootte"
 
 msgid "hotkey|select extra large map size"
-msgstr ""
+msgstr "selecteer extra grote mapgrootte"
 
 msgid "hotkey|select all map sizes"
-msgstr ""
+msgstr "selecteer alle mapgroottes"
 
 msgid "hotkey|hotseat game"
-msgstr ""
+msgstr "lokale multiplayer"
 
 msgid "hotkey|battle only game"
 msgstr ""
